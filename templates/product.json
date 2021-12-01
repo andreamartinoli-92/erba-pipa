@@ -1,0 +1,123 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "uppercase"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "186e43de-d7d3-45ac-b3a8-b7807bd8b62c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Descrizione",
+            "content": "<p>{{ product.metafields.my_fields.descrizione | metafield_tag }}<\/p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "51d4593e-c74d-40ac-95fa-1395ba0a0eec": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Aroma",
+            "content": "<p>{{ product.metafields.my_fields.aroma | metafield_tag }}<\/p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "a5de0810-4fd0-4a5a-b54e-9d428d673fef": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Aspetto",
+            "content": "<p>{{ product.metafields.my_fields.aspetto | metafield_tag }}<\/p>",
+            "page": "",
+            "icon": "eye"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Condividi"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "subtitle",
+        "price",
+        "vendor",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "186e43de-d7d3-45ac-b3a8-b7807bd8b62c",
+        "51d4593e-c74d-40ac-95fa-1395ba0a0eec",
+        "a5de0810-4fd0-4a5a-b54e-9d428d673fef",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Ti potrebbero interessare",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1638201769f8c780c9": {
+      "type": "image-with-text",
+      "blocks": {
+        "1638201769439aa736-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Chi siamo"
+          }
+        },
+        "1638201769439aa736-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il progetto di <strong>Erba Pipa<\/strong> nasce da un team di giovani coltivatori iscritti a Coldiretti.<\/p><p>La nostra Contea è in Lombardia, sulle montagne della provincia di Varese, all'interno del Parco Naturale <strong>Campo dei Fiori, <\/strong>una zona protetta immersa nel verde dell'arco prealpino.<\/p><p>Selezioniamo e coltiviamo genetiche di canapa sativa certificata, privilegiando la <strong>qualità<\/strong> del prodotto sopra la quantità.<\/p><p>Tutto il nostro ciclo coltivativo viene svolto in modo completamente <strong>biologico<\/strong> e nel rispetto dell'ambiente.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1638201769439aa736-0",
+        "1638201769439aa736-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1638201867ef5f79b3": {
+      "type": "multicolumn",
+      "blocks": {
+        "1638201867a367c0a1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nature.png",
+            "title": "100% Naturale",
+            "text": ""
+          }
+        },
+        "1638201867a367c0a1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/certificate.png",
+            "title": "Genetiche Certificate",
+            "text": ""
+          }
+        },
+        "1638201867a367c0a1-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/limited.png",
+            "title": "Numero Limitato",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1638201867a367c0a1-0",
+        "1638201867a367c0a1-1",
+        "1638201867a367c0a1-2"
+      ],
+      "settings": {
+        "title": "I nostri valori",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16382018701ceaaa0b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1638201870b1e4a3c1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "100% Naturale"
+          }
+        },
+        "1638201870b1e4a3c1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coltiviamo con passione le nostre infiorescenze di cannabis utilizzando tecniche rigenerative del suolo e i principi dell'<strong>Agricoltura Sinergica<\/strong>.<\/p><p>Autoproduciamo un Super Soil completamente biologico mescolando il nostro vermicompost a letame Km 0 delle fattorie della zona.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1638201870b1e4a3c1-0",
+        "1638201870b1e4a3c1-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16382021584cfbd088": {
+      "type": "image-with-text",
+      "blocks": {
+        "1638202158f58b41f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Genetiche Certificate"
+          }
+        },
+        "1638202158f58b41f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>rispettando lo 0,5% di THC<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1638202158f58b41f6-0",
+        "1638202158f58b41f6-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163820216320413dfa": {
+      "type": "image-with-text",
+      "blocks": {
+        "163820216376a69077-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Numero Limitato"
+          }
+        },
+        "163820216376a69077-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coltiviamo con passione le nostre infiorescenze di cannabis utilizzando tecniche rigenerative del suolo e i principi dell'<strong>Agricoltura Sinergica<\/strong>.<\/p><p>Autoproduciamo un Super Soil completamente biologico mescolando il nostro vermicompost a letame Km 0 delle fattorie della zona.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163820216376a69077-0",
+        "163820216376a69077-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1638202464d7ee0e38": {
+      "type": "multicolumn",
+      "blocks": {
+        "16382024636adda9c2-0": {
+          "type": "column",
+          "settings": {
+            "title": "Nessuna concimazione chimica",
+            "text": "<p>L’uso di sostanze chimiche di sintesi non è naturale e non è sostenibile.<\/p><p>La fertilità è data dal <strong>riciclo organico <\/strong>del terreno, come avviene in natura.<\/p><p>Il suolo si auto-fertilizza in continuazione grazie alla presenza di vermi e forme di vita nel terreno.<\/p>"
+          }
+        },
+        "16382024636adda9c2-1": {
+          "type": "column",
+          "settings": {
+            "title": "Biodiversità",
+            "text": "<p>Incrementare il più possibile la biodiversità contribuisce allo sviluppo di un ecosistema che si autoregola attraverso numerose e varie <strong>sinergie<\/strong> tra gli esseri viventi; non a caso proprio da questo principio prende il nome l'intera metodologia agricola in questione: <strong>l'agricoltura sinergica<\/strong>.<\/p>"
+          }
+        },
+        "16382024636adda9c2-2": {
+          "type": "column",
+          "settings": {
+            "title": "Nessuna lavorazione del suolo",
+            "text": "<p>Assenza di aratura o di qualsiasi altro tipo di disturbo del suolo se non al principio, durante la creazione dei bancali (aiuole).<\/p><p>Ciò preserva la <strong>stratificazione del terreno<\/strong> (struttura tessutale) in modo da rispettare le attività di tutte le forme di vita presenti e garantirne la continuità.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16382024636adda9c2-0",
+        "16382024636adda9c2-1",
+        "16382024636adda9c2-2"
+      ],
+      "settings": {
+        "title": "I principi dell'Agricoltura Sinergica",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1638201769f8c780c9",
+    "1638201867ef5f79b3",
+    "16382018701ceaaa0b",
+    "16382021584cfbd088",
+    "163820216320413dfa",
+    "1638202464d7ee0e38"
+  ]
+}

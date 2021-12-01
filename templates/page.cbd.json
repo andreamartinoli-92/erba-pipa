@@ -1,0 +1,194 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1638203523484233e5": {
+      "type": "rich-text",
+      "blocks": {
+        "16382035230019070d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Che cos'è il CBD?",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16382035230019070d-0"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "1638203527e047abd7": {
+      "type": "image-with-text",
+      "blocks": {
+        "c7c706cd-0f6b-49f2-bcbc-efab04093a19": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Che cos'è il CBD?"
+          }
+        },
+        "1638203527c8692ac1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>IL <strong>cannabidiolo<\/strong> (CBD) è uno degli oltre 100 composti organici presenti nelle piante di canapa. Si tratta di una molecola chimica naturale, chiamata <strong>fitocannabinoide, <\/strong>in grado di interagire con alcuni specifici recettori presenti nell’organismo.<\/p><p>Riveste un ruolo importante in campo terapeutico e presenta anche diverse applicazioni nel settore estetico e alimentare.<\/p><p>Non è psicoattivo, non crea assuefazione e ha una vasta gamma di applicazioni terapeutiche.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c7c706cd-0f6b-49f2-bcbc-efab04093a19",
+        "1638203527c8692ac1-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cbd-molecule.png",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1638206218248299b3": {
+      "type": "image-with-text",
+      "blocks": {
+        "163820621863ac08f9-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "163820621863ac08f9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il CBD interagisce con il nostro organismo attraverso una rete di recettori che fanno parte del sistema <strong>endocannabinoide<\/strong>.<\/p><p>Attraverso questi recettori i fitocannabinoidi agiscono per riportare la mente ad uno stato di equilibrio e benessere a determinati scompensi che possono essere dovuti, per esempio, a infiammazioni, dolore cronico o carenze del sistema immunitario.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163820621863ac08f9-0",
+        "163820621863ac08f9-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1638204342af893fed": {
+      "type": "rich-text",
+      "blocks": {
+        "1638204342406bc6e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "I vantaggi del CBD",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1638204342406bc6e1-0"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "1638278793705d96fc": {
+      "type": "image-with-text",
+      "blocks": {
+        "16382787939ef3fe7f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16382787939ef3fe7f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Il Cannabidiolo<\/strong>, secondo gli studi scientifici condotti in merito, riduce gli effetti delle infiammazioni e per questo motivo viene utilizzato nella preparazione di alcuni medicinali per i pazienti che soffrono di dolori cronici.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16382787939ef3fe7f-0",
+        "16382787939ef3fe7f-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1638206724dfc18e3d": {
+      "type": "rich-text",
+      "blocks": {
+        "1638206724888a86fa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Proprietà benefiche del CBD",
+            "heading_size": "h1"
+          }
+        },
+        "1638206724888a86fa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Antidepressive<br\/><\/strong>Aiuta a contrastare gli stati di depressione esogena ed endogena, anche profondi.<\/p><p><strong>Ansiolitiche<br\/><\/strong>Riduce sensazioni di stress, favorisce il sonno ed è distensivo contro ansia e panico.<\/p><p><strong>Antifiammatorie<br\/><\/strong>Contrasta infiammazioni, anche croniche.<\/p><p><strong>Analgesiche<\/strong><br\/>Riduce la sensazione di dolore, stimolando risposte neurologiche benefiche.<\/p><p><strong>Antipsicotiche<br\/><\/strong>Aiuta a trattare la schizzofrenia e bipolarismo.<\/p><p><strong>Energizzanti<br\/><\/strong>Migliora il naturale assorbimento energetico dato dal metabolismo, per una maggior sensazione di energia<\/p><p><strong>Antiossidanti<br\/><\/strong>E' un ottimo antiossidante in grado di rafforzare e rigenerare le cellule.<\/p><p><strong>Anticonvulsivanti<br\/><\/strong>Si è visto che il CBD può essere inserito nelle terapie per la cura di forme di epilessia, anche infantile come la sindrome di dravet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1638206724888a86fa-0",
+        "1638206724888a86fa-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "1638205533bfd181cf": {
+      "type": "image-with-text",
+      "blocks": {
+        "1638205532a8b0a917-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1638205532a8b0a917-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong> THC <\/strong>è l’elemento psicoattivo che provoca nel consumatore sensazioni di euforia, rilassamento, percezione spazio-temporale, e, all’interno del corpo, si lega ai recettori CB1, la cui stimolazione rende conto degli effetti euforizzanti dei cannabinoidi ma anche della loro azione antiemetica, antiossidante, ipotensiva, immunosoppressiva, <strong>antinfiammatoria<\/strong>, analgesica, antispastica e stimolante dell'appetito.<\/p><p><strong>Il CBD,<\/strong> invece, è un cannabinoide non psicoattivo e agisce in modo diametralmente opposto: si lega ai recettori CB2, che si trovano sulle cellule T del sistema immunitario e a livello del sistema nervoso centrale. La stimolazione dei recettori CB2 sembra essere responsabile principalmente della azione <strong>antiinfiammatoria <\/strong>e immunomodulatrice dei cannabinoidi.<\/p><p>In parole povere quindi<strong>,<\/strong> il THC altera le mente, mentre il <strong>CBD <\/strong>stimola la guarigione, consentendo di trattare l’ansia, la psicosi, i vuoti di memoria e disturbi come l’epilessia e la schizofrenia. Non producendo effetti psicotropi il <strong>CBD <\/strong>è legale nella maggior parte dei paesi del mondo.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1638205532a8b0a917-0",
+        "1638205532a8b0a917-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cbd-e-thc-10ea8bd4.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1638203523484233e5",
+    "1638203527e047abd7",
+    "1638206218248299b3",
+    "1638204342af893fed",
+    "1638278793705d96fc",
+    "1638206724dfc18e3d",
+    "1638205533bfd181cf"
+  ]
+}
