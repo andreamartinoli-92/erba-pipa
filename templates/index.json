@@ -229,6 +229,31 @@
       "settings": {
         "custom_liquid": "<video width=\"50%\"  autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/Hero_video_-_For_website.mp4?v=1638360573\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>"
       }
+    },
+    "16384639460daa99ef": {
+      "type": "videoSection",
+      "blocks": {
+        "1638463946db525da3-0": {
+          "type": "video",
+          "settings": {
+            "video_link": "",
+            "video_image": "shopify:\/\/shop_images\/ezgif.com-gif-maker.gif",
+            "overlay_opacity": 42,
+            "title": "Video slide",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "color_text": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "color_btn_bg": "#ffffff",
+            "color_btn_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1638463946db525da3-0"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -240,6 +265,7 @@
     "1638356067cbec31cc",
     "1638356062b869623a",
     "1638359015c1aac70b",
-    "1638443630d830ebc9"
+    "1638443630d830ebc9",
+    "16384639460daa99ef"
   ]
 }
