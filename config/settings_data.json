@@ -9,7 +9,7 @@
     "colors_outline_button_labels": "#008080",
     "colors_background_1": "#ffffff",
     "colors_background_2": "#00542f",
-    "gradient_background_2": "linear-gradient(180deg, rgba(1, 139, 78, 1), rgba(3, 179, 101, 1) 100%)",
+    "gradient_background_2": "linear-gradient(180deg, rgba(3, 179, 101, 1), rgba(145, 241, 198, 1) 53%, rgba(3, 179, 101, 1) 97%)",
     "type_header_font": "asul_n4",
     "type_body_font": "century_gothic_n4",
     "sale_badge_color_scheme": "background-2",
