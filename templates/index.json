@@ -1,5 +1,11 @@
 {
   "sections": {
+    "1638443630d830ebc9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<video class=\"center\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_def.mp4?v=1638542458\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.center {\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n<\/style>"
+      }
+    },
     "1637669751aacf300b": {
       "type": "image-banner-desktop",
       "settings": {
@@ -26,12 +32,6 @@
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "1638443630d830ebc9": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<video class=\"center\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_def.mp4?v=1638542458\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.center {\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n<\/style>"
       }
     },
     "multi_column": {
@@ -232,9 +232,9 @@
     }
   },
   "order": [
+    "1638443630d830ebc9",
     "1637669751aacf300b",
     "16376724322fc9ba9c",
-    "1638443630d830ebc9",
     "multi_column",
     "16383540912b91b68c",
     "featured_products",
