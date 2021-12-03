@@ -31,7 +31,7 @@
     "1638443630d830ebc9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<video width=\"80%\" margin-left=\"auto\" margin-right=\"auto\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/Hero_video_-_For_website.mp4?v=1638360573\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>"
+        "custom_liquid": "<video class=\"center\" width=\"80%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/Hero_video_-_For_website.mp4?v=1638360573\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.center {\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n<\/style>"
       }
     },
     "multi_column": {
