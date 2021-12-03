@@ -14,12 +14,6 @@
         "show_text_below": true
       }
     },
-    "1638443630d830ebc9": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<video width=\"100%\"  autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/Hero_video_-_For_website.mp4?v=1638360573\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>"
-      }
-    },
     "16376724322fc9ba9c": {
       "type": "image-banner-mobile",
       "settings": {
@@ -32,6 +26,12 @@
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "1638443630d830ebc9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<video width=\"100%\"  autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/Hero_video_-_For_website.mp4?v=1638360573\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>"
       }
     },
     "multi_column": {
@@ -233,8 +233,8 @@
   },
   "order": [
     "1637669751aacf300b",
-    "1638443630d830ebc9",
     "16376724322fc9ba9c",
+    "1638443630d830ebc9",
     "multi_column",
     "16383540912b91b68c",
     "featured_products",
