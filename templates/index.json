@@ -32,36 +32,6 @@
         "custom_liquid": "<video class=\"center\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_def.mp4?v=1638542458\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.center {\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n<\/style>"
       }
     },
-    "1637669751aacf300b": {
-      "type": "image-banner-desktop",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/house.png",
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "16376724322fc9ba9c": {
-      "type": "image-banner-mobile",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Animation_of_Megaclite_around_Jupiter_-_Equatorial_view.gif",
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -262,8 +232,6 @@
   "order": [
     "16385425503067c514",
     "1638443630d830ebc9",
-    "1637669751aacf300b",
-    "16376724322fc9ba9c",
     "multi_column",
     "16383540912b91b68c",
     "featured_products",
