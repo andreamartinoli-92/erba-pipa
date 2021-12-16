@@ -114,10 +114,28 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {
+      }
+    },
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
     }
   },
   "order": [
+    "shogun-helper",
+    "shogun-above",
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "shogun-below"
   ]
 }
