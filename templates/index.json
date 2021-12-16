@@ -26,6 +26,12 @@
       "settings": {
       }
     },
+    "16396499084f093828": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<video class=\"video_background\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_home_mobile.mp4?v=1639649707\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.video_background {\n    margin-top: -7rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (min-width: 750px) {\n  .video_background {\n  display: none;\n}\n}\n<\/style>"
+      }
+    },
     "1638443630d830ebc9": {
       "type": "custom-liquid",
       "settings": {
@@ -231,6 +237,7 @@
   },
   "order": [
     "16385425503067c514",
+    "16396499084f093828",
     "1638443630d830ebc9",
     "multi_column",
     "16383540912b91b68c",
