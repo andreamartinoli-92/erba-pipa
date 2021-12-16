@@ -35,7 +35,44 @@
     "1638443630d830ebc9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<video class=\"video_desktop\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_home_desktop.mp4?v=1639651193\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
+        "custom_liquid": "<video class=\"video_desktop\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_home_desktop.mp4?v=1639651193\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-bottom: -7rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
+      }
+    },
+    "1638356062b869623a": {
+      "type": "rich-text",
+      "blocks": {
+        "1638356062a2bd5674-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1638356062a2bd5674-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Attraverso infiorescenze CBD diffondiamo la purezza, la qualità e la magia <br\/>di un prodotto totalmente naturale, <br\/><strong>100% made in italy.<\/strong><\/p>"
+          }
+        },
+        "1638356062a2bd5674-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1638356062a2bd5674-0",
+        "1638356062a2bd5674-1",
+        "1638356062a2bd5674-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
       }
     },
     "featured_products": {
@@ -177,43 +214,6 @@
         "layout": "text_first"
       }
     },
-    "1638356062b869623a": {
-      "type": "rich-text",
-      "blocks": {
-        "1638356062a2bd5674-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "1638356062a2bd5674-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Attraverso infiorescenze CBD diffondiamo la purezza, la qualità e la magia <br\/>di un prodotto totalmente naturale, <br\/><strong>100% made in italy.<\/strong><\/p>"
-          }
-        },
-        "1638356062a2bd5674-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1638356062a2bd5674-0",
-        "1638356062a2bd5674-1",
-        "1638356062a2bd5674-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true
-      }
-    },
     "1638359015c1aac70b": {
       "type": "apps",
       "blocks": {
@@ -239,11 +239,11 @@
     "16385425503067c514",
     "16396499084f093828",
     "1638443630d830ebc9",
+    "1638356062b869623a",
     "featured_products",
     "multi_column",
     "16383540912b91b68c",
     "1638356067cbec31cc",
-    "1638356062b869623a",
     "1638359015c1aac70b"
   ]
 }
