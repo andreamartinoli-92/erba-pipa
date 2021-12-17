@@ -110,7 +110,7 @@
         "decrease": "Diminuisci quantità per {{ product }}"
       },
       "price": {
-        "from_price_html": "Da {{ price }}",
+        "from_price_html": "A partire da {{ price }}",
         "regular_price": "Prezzo di listino",
         "sale_price": "Prezzo di vendita",
         "unit_price": "Prezzo unitario"
