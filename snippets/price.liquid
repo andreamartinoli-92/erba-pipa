@@ -19,6 +19,9 @@
 
   assign compare_at_price = target.compare_at_price
   assign price = target.price | default: 1999
+  assign discount = compare_at_price | minus: price | times: 100 | divided_by: compare_at_price
+  assign differenze = compare_at_price | minus: price | money
+
   assign available = target.available | default: false
   assign money_price = price | money
   if settings.currency_code_enabled
@@ -83,11 +86,11 @@
   </div>
   {%- if show_badges -%}
     <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}" aria-hidden="true">
-      {{ 'products.product.on_sale' | t }}
+      {%- comment -%} {{ 'products.product.on_sale' | t }} {%- endcomment -%}
+      risparmi {{ differenze }} ({{ discount }}%)
     </span>
-
     <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}" aria-hidden="true">
-      {{ 'products.product.sold_out' | t }}
-    </span>
+{{ 'products.product.sold_out' | t }}
+</span>
   {%- endif -%}
 </div>
