@@ -217,7 +217,7 @@
     "1639763740d54d6c93": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<video class=\"video_desktop\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/Hero_video_-_For_website.mp4?v=1638360573\">\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-bottom: -7rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
+        "custom_liquid": "<video class=\"video_desktop\" width=\"80%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/Hero_video_-_For_website.mp4?v=1638360573\">\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-bottom: -7rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
       }
     },
     "1638359015c1aac70b": {
