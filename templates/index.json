@@ -29,7 +29,7 @@
     "16396499084f093828": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<video class=\"video_mobile\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_home_mobile.mp4?v=1639649707\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.video_mobile {\n    margin-top: -5rem;\n    margin-bottom: -5rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (min-width: 750px) {\n  .video_mobile {\n  display: none;\n}\n}\n<\/style>"
+        "custom_liquid": "<video class=\"video_mobile\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/mobile.mp4?v=1640023822\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.video_mobile {\n    margin-top: -5rem;\n    margin-bottom: -5rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (min-width: 750px) {\n  .video_mobile {\n  display: none;\n}\n}\n<\/style>"
       }
     },
     "1638443630d830ebc9": {
