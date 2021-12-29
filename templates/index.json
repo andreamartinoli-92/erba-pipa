@@ -71,7 +71,7 @@
         "1638356062a2bd5674-2"
       ],
       "settings": {
-        "color_scheme": "accent-2",
+        "color_scheme": "accent-1",
         "full_width": true
       }
     },
@@ -176,7 +176,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled-1.jpg",
         "height": "small",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
@@ -210,7 +210,7 @@
       ],
       "settings": {
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "text_first"
       }
     },
