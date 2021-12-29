@@ -32,12 +32,6 @@
         "custom_liquid": "<video class=\"video_mobile\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_home_mobile_1MB.mp4?v=1640795497\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.video_mobile {\n    margin-top: -5rem;\n    margin-bottom: -5rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (min-width: 750px) {\n  .video_mobile {\n  display: none;\n}\n}\n<\/style>"
       }
     },
-    "1638443630d830ebc9": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<video class=\"video_mobile\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/mobile_def_ae7837de-49b4-413b-817b-ed66d09ac87e.mp4?v=1640085793\">\n   <source type=\"video\/ogg\" src=\"\">\n   <source type=\"video\/webm\" src=\"\">\n   Your browser does not support the video tag.\n<\/video>\n\n<style>\n.video_mobile {\n    margin-top: -5rem;\n    margin-bottom: -5rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (min-width: 750px) {\n  .video_mobile {\n  display: none;\n}\n}\n<\/style>"
-      }
-    },
     "164079432571964fcd": {
       "type": "custom-liquid",
       "settings": {
@@ -250,7 +244,6 @@
   "order": [
     "16385425503067c514",
     "16396499084f093828",
-    "1638443630d830ebc9",
     "164079432571964fcd",
     "1638356062b869623a",
     "featured_products",
