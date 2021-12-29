@@ -176,7 +176,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled-1.jpg",
         "height": "small",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "layout": "image_first"
       }
     },
@@ -210,12 +210,13 @@
       ],
       "settings": {
         "height": "adapt",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "layout": "text_first"
       }
     },
     "1639763740d54d6c93": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<video class=\"video_desktop\" width=\"80%\" display=\"block\" autoplay loop muted>\n   <source type=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/hero_video_finito.mp4?v=1640087526\">\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-bottom: -7rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
       }
