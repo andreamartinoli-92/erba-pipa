@@ -83,7 +83,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/mappa_af2146f1-17f7-47d4-97ee-5c0dded199a8.png",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
