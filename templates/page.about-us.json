@@ -97,8 +97,9 @@
         "1638201870b1e4a3c1-1"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/nuova02_2907a07d-1f42-405e-b3e3-d4427286fd2a.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
@@ -114,7 +115,7 @@
         "1638202158f58b41f6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>rispettando lo 0,5% di THC<\/p>"
+            "text": "<p>Canapa light certificata nel rispetto dei limiti di legge e prodotta in Italia, rispettando lo 0,5% di THC così comè richiesto dal  Decreto Legislativo 219\/200.<\/p>"
           }
         }
       },
@@ -123,8 +124,9 @@
         "1638202158f58b41f6-1"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/nuova_964b7863-5fe4-4c95-bf2f-706c10c9dd6d.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
         "layout": "text_first"
       }
     },
@@ -140,7 +142,7 @@
         "163820216376a69077-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Coltiviamo con passione le nostre infiorescenze di cannabis utilizzando tecniche rigenerative del suolo e i principi dell'<strong>Agricoltura Sinergica<\/strong>.<\/p><p>Autoproduciamo un Super Soil completamente biologico mescolando il nostro vermicompost a letame Km 0 delle fattorie della zona.<\/p>"
+            "text": "<p>La nostra filosofia si basa su un'idea semplice: i nostri semi appositamente selezionati sono seminati nel terreno e coltivati garantendo la  qualità rispetto alla quantità.  Infatti la nostra piantagione di 350m² ci permette di curare ogni pianta e raccogliere prodotti di prima qualità.<\/p>"
           }
         }
       },
@@ -149,8 +151,9 @@
         "163820216376a69077-1"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/boo2.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
