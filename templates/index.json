@@ -222,6 +222,53 @@
         "custom_liquid": "<video class=\"video_desktop\" width=\"80%\" display=\"block\" autoplay loop muted>\n   <source type=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/hero_video_finito.mp4?v=1640087526\">\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-bottom: -7rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
       }
     },
+    "1640860551689a109b": {
+      "type": "image-banner",
+      "blocks": {
+        "1640860551310d7e59-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1640860551310d7e59-1": {
+          "type": "text",
+          "settings": {
+            "text": "Erba Pipa è il nome della nostra canapa, termine che indica un mondo in cui la fantasia crea la realtà e la bellezza incontra la magia."
+          }
+        },
+        "1640860551310d7e59-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1640860551310d7e59-0",
+        "1640860551310d7e59-1",
+        "1640860551310d7e59-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hnet-image_9.gif",
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 20,
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1638359015c1aac70b": {
       "type": "apps",
       "blocks": {
@@ -253,6 +300,7 @@
     "16383540912b91b68c",
     "1638356067cbec31cc",
     "1639763740d54d6c93",
+    "1640860551689a109b",
     "1638359015c1aac70b"
   ]
 }
