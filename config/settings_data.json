@@ -34,7 +34,7 @@
           "menu": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Link Rapidi",
               "menu": "footer"
             }
           },
