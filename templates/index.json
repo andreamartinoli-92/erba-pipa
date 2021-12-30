@@ -174,7 +174,7 @@
         "163835409131a405d7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled-1.jpg",
+        "image": "shopify:\/\/shop_images\/cici.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -186,20 +186,20 @@
         "16383560679811d0a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "16383560679811d0a5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Il nostro scopo è portare un po' di magia nella realtà di tutti i giorni, collaborando con diverse creature fantastiche <\/p><p>La nostra piantagione di 350 m² contiene moltissime delle varietà dell' Erba Pipa, proveniente da  tutte le terre dominate da elfi, nani, maghi e orchi. <\/p>"
+            "text": "<p>Il nostro scopo è portare un po' di magia nella realtà di tutti i giorni, collaborando con diverse creature fantastiche.<br\/>La nostra piantagione di 350 m² contiene moltissime delle varietà dell' Erba Pipa, proveniente da  tutte le terre dominate da elfi, nani, maghi e orchi. <\/p><p>Venite a scoprire i nostri prodotti!<\/p>"
           }
         },
         "16383560679811d0a5-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Acquista ora",
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
@@ -209,7 +209,8 @@
         "16383560679811d0a5-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/fifi.jpg",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
