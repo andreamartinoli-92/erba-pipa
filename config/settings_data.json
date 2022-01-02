@@ -31,17 +31,10 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "menu": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Legal",
-              "menu": "footer"
-            }
-          },
           "text": {
             "type": "text",
             "settings": {
-              "heading": "Seguici su:",
+              "heading": "Seguici",
               "subtext": "<p><a href=\"https:\/\/www.instagram.com\/erba.pipa\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/erba.pipa\/\">Instagram<\/a><\/p><p><a href=\"https:\/\/www.facebook.com\/erbapipashop\/\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/erbapipashop\/\">Facebook<\/a><\/p><p><\/p>"
             }
           },
@@ -51,12 +44,19 @@
               "heading": "Heading",
               "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
             }
+          },
+          "menu": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Legal",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "menu",
           "text",
-          "53cdd97a-f043-4ca8-9253-13e585fe4e3c"
+          "53cdd97a-f043-4ca8-9253-13e585fe4e3c",
+          "menu"
         ],
         "settings": {
           "color_scheme": "accent-1",
