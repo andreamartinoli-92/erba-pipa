@@ -31,18 +31,18 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "text": {
-            "type": "text",
-            "settings": {
-              "heading": "Seguici",
-              "subtext": "<p><a href=\"https:\/\/www.instagram.com\/erba.pipa\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/erba.pipa\/\">Instagram<\/a><\/p><p><a href=\"https:\/\/www.facebook.com\/erbapipashop\/\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/erbapipashop\/\">Facebook<\/a><\/p><p><\/p>"
-            }
-          },
           "53cdd97a-f043-4ca8-9253-13e585fe4e3c": {
             "type": "text",
             "settings": {
               "heading": "Contattaci",
               "subtext": "<p>Erba Pipa<br\/>Via Gisora 4,<br\/>21039 Bedero Valcuvia (VA)<br\/>P.Iva 03820280125<br\/>info@erbapipa.shop<\/p>"
+            }
+          },
+          "text": {
+            "type": "text",
+            "settings": {
+              "heading": "Seguici",
+              "subtext": "<p><a href=\"https:\/\/www.instagram.com\/erba.pipa\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/erba.pipa\/\">Instagram<\/a><\/p><p><a href=\"https:\/\/www.facebook.com\/erbapipashop\/\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/erbapipashop\/\">Facebook<\/a><\/p><p><\/p>"
             }
           },
           "menu": {
@@ -54,8 +54,8 @@
           }
         },
         "block_order": [
-          "text",
           "53cdd97a-f043-4ca8-9253-13e585fe4e3c",
+          "text",
           "menu"
         ],
         "settings": {
