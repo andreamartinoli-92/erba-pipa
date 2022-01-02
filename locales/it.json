@@ -395,5 +395,10 @@
       "copy_code_success": "Codice copiato correttamente",
       "print_gift_card": "Stampa"
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": "Ecommerce Space - Ecommerce Trade Srl\nSede Legale: via Monte Napoleone 8, 20121, Milano\nP.IVA 11547920964\ninfo@justbob.it"
+    }
   }
 }
