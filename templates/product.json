@@ -12,7 +12,6 @@
     },
     "main": {
       "type": "main-product",
-      "disabled": true,
       "blocks": {
         "title": {
           "type": "title",
@@ -116,7 +115,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "heading": "Ti potrebbero interessare",
         "image_ratio": "square",
