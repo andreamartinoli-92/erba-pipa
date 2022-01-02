@@ -1,7 +1,18 @@
 {
   "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-product",
+      "disabled": true,
       "blocks": {
         "title": {
           "type": "title",
@@ -105,6 +116,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Ti potrebbero interessare",
         "image_ratio": "square",
@@ -115,18 +127,8 @@
         "show_rating": false
       }
     },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {
-      }
-    },
     "shogun-below": {
       "type": "shogun-below",
-      "settings": {
-      }
-    },
-    "shogun-helper": {
-      "type": "shogun-helper",
       "settings": {
       }
     }
