@@ -21,10 +21,47 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
+    },
+    "16411363883755ffea": {
+      "type": "rich-text",
+      "blocks": {
+        "1641136388ace84aa1-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1641136388ace84aa1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vuoi avvolgerti in un asciugamano di canapa e conoscere le incredibili proprietà di questa pianta? Erba Pipa fa al caso tuo! portandoti in un mondo in cui la fantasia crea la realtà e la bellezza incontra la magia. <br\/>Il packaging dal design unico di Erba Pipa è realizzato con carta riciclata nel rispetto dell'ambiente.<\/p><p>   <\/p>"
+          }
+        },
+        "1641136388ace84aa1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1641136388ace84aa1-0",
+        "1641136388ace84aa1-1",
+        "1641136388ace84aa1-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "16411363883755ffea"
   ]
 }
