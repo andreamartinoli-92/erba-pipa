@@ -51,12 +51,20 @@
               "heading": "Legal",
               "menu": "footer"
             }
+          },
+          "15bbeb34-b894-458f-883e-8638aac74a88": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Link Rapidi",
+              "menu": "link-rapidi"
+            }
           }
         },
         "block_order": [
           "53cdd97a-f043-4ca8-9253-13e585fe4e3c",
           "text",
-          "menu"
+          "menu",
+          "15bbeb34-b894-458f-883e-8638aac74a88"
         ],
         "settings": {
           "color_scheme": "accent-1",
