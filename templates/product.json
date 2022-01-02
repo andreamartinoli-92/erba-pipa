@@ -116,7 +116,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Ti potrebbero interessare",
+        "heading": "Hai già provato tutti i sapori di Erba Pipa?",
         "image_ratio": "square",
         "show_secondary_image": true,
         "add_image_padding": false,
