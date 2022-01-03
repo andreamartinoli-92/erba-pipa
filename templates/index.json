@@ -149,8 +149,9 @@
         },
         "164123335608f0d3f9-7": {
           "type": "share",
+          "disabled": true,
           "settings": {
-            "share_label": "Share"
+            "share_label": "Condividi"
           }
         }
       },
