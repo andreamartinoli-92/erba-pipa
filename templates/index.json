@@ -1,31 +1,5 @@
 {
   "sections": {
-    "16385425503067c514": {
-      "type": "videoSection",
-      "disabled": true,
-      "blocks": {
-        "16385425502c2521bf-0": {
-          "type": "video",
-          "settings": {
-            "video_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_def.mp4?v=1638542458",
-            "video_image": "shopify:\/\/shop_images\/house.png",
-            "overlay_opacity": 0,
-            "title": "",
-            "text": "",
-            "color_text": "#ffffff",
-            "button_label": "",
-            "button_link": "",
-            "color_btn_bg": "#ffffff",
-            "color_btn_text": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "16385425502c2521bf-0"
-      ],
-      "settings": {
-      }
-    },
     "16396499084f093828": {
       "type": "custom-liquid",
       "settings": {
@@ -291,7 +265,6 @@
     }
   },
   "order": [
-    "16385425503067c514",
     "16396499084f093828",
     "164079432571964fcd",
     "1638356062b869623a",
