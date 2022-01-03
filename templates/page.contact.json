@@ -19,7 +19,7 @@
         "164121833085c07493-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Siamo qui per aiutarti<br\/>Per qualunque dubbio, ti consigliamo prima di controllare la nostra sezione di domande comuni facendo click su F.A.Q.<\/p><p>Se hai bisogno, puoi anche mandarci un'email a<a href=\"mailto:ayuda@pampling.com\"> erbapipa.info@gmail.com <\/a>e risponderemo prima di 48h.<\/p><p>Contattaci attraverso questo formulario:<br\/><\/p>"
+            "text": "<p>Siamo qui per aiutarti<br\/>Per qualunque dubbio, ti consigliamo prima di controllare la nostra sezione di domande comuni facendo click su F.A.Q.<\/p><p>Contattaci attraverso questo formulario:<br\/><\/p>"
           }
         },
         "164121833085c07493-2": {
@@ -47,11 +47,49 @@
       "settings": {
         "heading": ""
       }
+    },
+    "16412188527093ea07": {
+      "type": "rich-text",
+      "blocks": {
+        "1641218852017bf337-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1641218852017bf337-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Se hai bisogno, puoi anche mandarci un'email a<a href=\"mailto:ayuda@pampling.com\"> erbapipa.info@gmail.com <\/a>e risponderemo prima di 48h.<\/p>"
+          }
+        },
+        "1641218852017bf337-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1641218852017bf337-0",
+        "1641218852017bf337-1",
+        "1641218852017bf337-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
     "164121833029dfe5fc",
-    "form"
+    "form",
+    "16412188527093ea07"
   ]
 }
