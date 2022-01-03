@@ -27,7 +27,8 @@
         "1638201769439aa736-1"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/ERBA_PIPA-97.jpg",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "text_first"
       }

@@ -97,24 +97,24 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/LOGO1.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/spedizione.png",
+            "title": "Spedizione gratuita da 40 €",
             "text": ""
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/LOGO02_1.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/pacco_ed73c6c0-0f82-4eaf-94de-9f3e09657800.png",
+            "title": "pacco anonimo",
             "text": ""
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/LOGO3.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/carta.png",
+            "title": "Pagamento sicuro",
             "text": ""
           }
         },
@@ -176,7 +176,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/cici.jpg",
         "height": "small",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
@@ -209,9 +209,9 @@
         "16383560679811d0a5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/fifi.jpg",
+        "image": "shopify:\/\/shop_images\/ERBA_PIPA-27.jpg",
         "height": "small",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "text_first"
       }
     },
@@ -224,6 +224,7 @@
     },
     "1640860551689a109b": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1640860551310d7e59-0": {
           "type": "heading",
