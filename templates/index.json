@@ -71,7 +71,7 @@
         "164123335608f0d3f9-0": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
+            "text": "",
             "text_style": "uppercase"
           }
         },
