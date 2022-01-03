@@ -65,6 +65,74 @@
         "full_width": true
       }
     },
+    "164123335742080591": {
+      "type": "featured-product",
+      "blocks": {
+        "164123335608f0d3f9-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "164123335608f0d3f9-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "164123335608f0d3f9-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "164123335608f0d3f9-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "164123335608f0d3f9-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "164123335608f0d3f9-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "164123335608f0d3f9-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "164123335608f0d3f9-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "164123335608f0d3f9-0",
+        "164123335608f0d3f9-1",
+        "164123335608f0d3f9-2",
+        "164123335608f0d3f9-3",
+        "164123335608f0d3f9-4",
+        "164123335608f0d3f9-5",
+        "164123335608f0d3f9-6",
+        "164123335608f0d3f9-7"
+      ],
+      "settings": {
+        "product": "compagnia-dellanello-box",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -263,74 +331,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "164123335742080591": {
-      "type": "featured-product",
-      "blocks": {
-        "164123335608f0d3f9-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "164123335608f0d3f9-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "164123335608f0d3f9-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "164123335608f0d3f9-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "164123335608f0d3f9-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "164123335608f0d3f9-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "164123335608f0d3f9-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "164123335608f0d3f9-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "164123335608f0d3f9-0",
-        "164123335608f0d3f9-1",
-        "164123335608f0d3f9-2",
-        "164123335608f0d3f9-3",
-        "164123335608f0d3f9-4",
-        "164123335608f0d3f9-5",
-        "164123335608f0d3f9-6",
-        "164123335608f0d3f9-7"
-      ],
-      "settings": {
-        "product": "compagnia-dellanello-box",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
     }
   },
   "order": [
@@ -338,12 +338,12 @@
     "164079432571964fcd",
     "featured_products",
     "1638356062b869623a",
+    "164123335742080591",
     "multi_column",
     "16383540912b91b68c",
     "1638356067cbec31cc",
     "1639763740d54d6c93",
     "1640860551689a109b",
-    "1638359015c1aac70b",
-    "164123335742080591"
+    "1638359015c1aac70b"
   ]
 }
