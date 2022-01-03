@@ -98,7 +98,7 @@
         "16412343026786c063-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true
       }
     },
@@ -166,7 +166,7 @@
       ],
       "settings": {
         "product": "compagnia-dellanello-box",
-        "secondary_background": true,
+        "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
       }
