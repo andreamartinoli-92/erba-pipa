@@ -387,6 +387,43 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1641237331ce6298a1": {
+      "type": "rich-text",
+      "blocks": {
+        "164123733126fa4b95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prova le 4 razze di Erba Pipa",
+            "heading_size": "h1"
+          }
+        },
+        "164123733126fa4b95-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "164123733126fa4b95-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164123733126fa4b95-0",
+        "164123733126fa4b95-1",
+        "164123733126fa4b95-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -401,6 +438,7 @@
     "1638356067cbec31cc",
     "1639763740d54d6c93",
     "1640860551689a109b",
-    "1638359015c1aac70b"
+    "1638359015c1aac70b",
+    "1641237331ce6298a1"
   ]
 }
