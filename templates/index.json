@@ -15,7 +15,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Le nostre infiorescenze CBD",
+        "title": "",
         "collection": "infiorescenze-cbd",
         "products_to_show": 4,
         "show_view_all": false,
