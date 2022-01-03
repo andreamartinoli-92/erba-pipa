@@ -5,6 +5,43 @@
       "settings": {
       }
     },
+    "164121833029dfe5fc": {
+      "type": "rich-text",
+      "blocks": {
+        "164121833085c07493-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "164121833085c07493-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Siamo qui per aiutarti<br\/>Per qualunque dubbio, ti consigliamo prima di controllare la nostra sezione di domande comuni facendo click su <a href=\"https:\/\/www.pampling.com\/ayuda\">F.A.Q<\/a>.<br\/><br\/>Se hai bisogno, puoi anche mandarci un'email ad<a href=\"mailto:ayuda@pampling.com\">ayuda@pampling.com<\/a>e risponderemo prima di 48h.<br\/><br\/><strong>Orario dell'Attenzione al Cliente da Lunedì al Venerdì dalle 8:00 alle 14:00<\/strong>Contattaci attraverso questo formulario:<br\/>Per informazioni riguardo gli ordini, è importante che ci indichi il tuo<strong>numero ordine<\/strong>e il tuo<strong>username<\/strong>Pampling.<\/p>"
+          }
+        },
+        "164121833085c07493-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164121833085c07493-0",
+        "164121833085c07493-1",
+        "164121833085c07493-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -14,6 +51,7 @@
   },
   "order": [
     "main",
+    "164121833029dfe5fc",
     "form"
   ]
 }
