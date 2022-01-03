@@ -65,11 +65,49 @@
         "full_width": true
       }
     },
+    "16412343026d1ab248": {
+      "type": "rich-text",
+      "blocks": {
+        "16412343026786c063-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prova i nostri box",
+            "heading_size": "h1"
+          }
+        },
+        "16412343026786c063-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16412343026786c063-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16412343026786c063-0",
+        "16412343026786c063-1",
+        "16412343026786c063-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "164123335742080591": {
       "type": "featured-product",
       "blocks": {
         "164123335608f0d3f9-0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "text_style": "uppercase"
@@ -338,6 +376,7 @@
     "164079432571964fcd",
     "featured_products",
     "1638356062b869623a",
+    "16412343026d1ab248",
     "164123335742080591",
     "multi_column",
     "16383540912b91b68c",
