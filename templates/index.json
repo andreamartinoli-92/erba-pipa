@@ -31,6 +31,7 @@
         },
         "1638356062a2bd5674-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Acquista ora",
             "button_link": "shopify:\/\/collections\/all",
