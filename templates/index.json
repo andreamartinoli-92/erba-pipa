@@ -12,6 +12,96 @@
         "custom_liquid": "<video class=\"video_desktop\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_home_desktop_3MB.mp4?v=1640794833\">\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-bottom: -4rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
       }
     },
+    "multi_column": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spedizione.png",
+            "title": "Spedizione gratuita da 40 €",
+            "text": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pacco_ed73c6c0-0f82-4eaf-94de-9f3e09657800.png",
+            "title": "pacco anonimo",
+            "text": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carta.png",
+            "title": "Pagamento sicuro",
+            "text": ""
+          }
+        },
+        "6742c6ba-6ccf-4892-829b-c1899446e104": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qualita.png",
+            "title": "Qualità garantita",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "6742c6ba-6ccf-4892-829b-c1899446e104"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1641237331ce6298a1": {
+      "type": "rich-text",
+      "blocks": {
+        "164123733126fa4b95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prova le 4 razze di Erba Pipa",
+            "heading_size": "h1"
+          }
+        },
+        "164123733126fa4b95-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "164123733126fa4b95-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164123733126fa4b95-0",
+        "164123733126fa4b95-1",
+        "164123733126fa4b95-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -189,59 +279,6 @@
         "enable_video_looping": false
       }
     },
-    "multi_column": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/spedizione.png",
-            "title": "Spedizione gratuita da 40 €",
-            "text": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pacco_ed73c6c0-0f82-4eaf-94de-9f3e09657800.png",
-            "title": "pacco anonimo",
-            "text": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/carta.png",
-            "title": "Pagamento sicuro",
-            "text": ""
-          }
-        },
-        "6742c6ba-6ccf-4892-829b-c1899446e104": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/qualita.png",
-            "title": "Qualità garantita",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "6742c6ba-6ccf-4892-829b-c1899446e104"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "16383540912b91b68c": {
       "type": "image-with-text",
       "blocks": {
@@ -387,58 +424,21 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "1641237331ce6298a1": {
-      "type": "rich-text",
-      "blocks": {
-        "164123733126fa4b95-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prova le 4 razze di Erba Pipa",
-            "heading_size": "h1"
-          }
-        },
-        "164123733126fa4b95-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "164123733126fa4b95-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "164123733126fa4b95-0",
-        "164123733126fa4b95-1",
-        "164123733126fa4b95-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
     "16396499084f093828",
     "164079432571964fcd",
+    "multi_column",
+    "1641237331ce6298a1",
     "featured_products",
     "1638356062b869623a",
     "16412343026d1ab248",
     "164123335742080591",
-    "multi_column",
     "16383540912b91b68c",
     "1638356067cbec31cc",
     "1639763740d54d6c93",
     "1640860551689a109b",
-    "1638359015c1aac70b",
-    "1641237331ce6298a1"
+    "1638359015c1aac70b"
   ]
 }
