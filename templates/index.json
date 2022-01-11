@@ -279,6 +279,43 @@
         "enable_video_looping": false
       }
     },
+    "1641911015bcac409a": {
+      "type": "rich-text",
+      "blocks": {
+        "16419110159da64eb8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "16419110159da64eb8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una <strong>pianta<\/strong> per <strong>curare<\/strong>,<br\/>una <strong>pianta<\/strong> per <strong>calmare<\/strong>,<br\/>una <strong>pianta<\/strong> per <strong>amare<\/strong> e<br\/>nella luce la vita <strong>migliorare<\/strong>!<\/p>"
+          }
+        },
+        "16419110159da64eb8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16419110159da64eb8-0",
+        "16419110159da64eb8-1",
+        "16419110159da64eb8-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
     "16383540912b91b68c": {
       "type": "image-with-text",
       "blocks": {
@@ -435,6 +472,7 @@
     "1638356062b869623a",
     "16412343026d1ab248",
     "164123335742080591",
+    "1641911015bcac409a",
     "16383540912b91b68c",
     "1638356067cbec31cc",
     "1639763740d54d6c93",
