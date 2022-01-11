@@ -517,7 +517,8 @@
         "1641919370aeb0239b-2"
       ],
       "settings": {
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/FAQ.png",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
