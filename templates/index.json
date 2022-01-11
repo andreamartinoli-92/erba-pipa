@@ -286,14 +286,14 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "",
+            "heading": "Una pianta per curare, una pianta per calmare, una pianta per amare e nella luce la vita migliorare!",
             "heading_size": "h1"
           }
         },
         "16419110159da64eb8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Una <strong>pianta<\/strong> per <strong>curare<\/strong>,<br\/>una <strong>pianta<\/strong> per <strong>calmare<\/strong>,<br\/>una <strong>pianta<\/strong> per <strong>amare<\/strong> e<br\/>nella luce la vita <strong>migliorare<\/strong>!<\/p>"
+            "text": "<p>Una <strong>pianta <\/strong>per <strong>curare<\/strong>,<br\/>una <strong>pianta <\/strong>per <strong>calmare<\/strong>,<br\/>una <strong>pianta <\/strong>per <strong>amare <\/strong>e<br\/>nella luce la vita <strong>migliorare<\/strong>!<\/p>"
           }
         },
         "16419110159da64eb8-2": {
@@ -312,8 +312,8 @@
         "16419110159da64eb8-2"
       ],
       "settings": {
-        "color_scheme": "inverse",
-        "full_width": true
+        "color_scheme": "background-1",
+        "full_width": false
       }
     },
     "16383540912b91b68c": {
@@ -461,6 +461,43 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "164191433670a552da": {
+      "type": "image-with-text",
+      "blocks": {
+        "1641914336ff56ba58-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "1641914336ff56ba58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una <strong>pianta <\/strong>per <strong>curare<\/strong>,<br\/>una <strong>pianta <\/strong>per <strong>calmare<\/strong>,<br\/>una <strong>pianta <\/strong>per <strong>amare <\/strong>e<br\/>nella luce la vita <strong>migliorare<\/strong>!<\/p>"
+          }
+        },
+        "1641914336ff56ba58-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1641914336ff56ba58-0",
+        "1641914336ff56ba58-1",
+        "1641914336ff56ba58-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/nuova02_a8132706-b2e6-4abe-8259-db95ffbea08b.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -477,6 +514,7 @@
     "1638356067cbec31cc",
     "1639763740d54d6c93",
     "1640860551689a109b",
-    "1638359015c1aac70b"
+    "1638359015c1aac70b",
+    "164191433670a552da"
   ]
 }
