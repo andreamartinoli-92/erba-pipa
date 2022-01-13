@@ -12,6 +12,41 @@
         "custom_liquid": "<video class=\"video_desktop\" width=\"100%\" display=\"block\" autoplay loop muted>\n   <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0578\/5406\/6897\/files\/video_home_desktop_3MB.mp4?v=1640794833\">\n<\/video>\n\n<style>\n.video_desktop {\n    margin-top: -7rem;\n    margin-bottom: -4rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: block\n}\n@media screen and (max-width: 749px) {\n  .video_desktop {\n  display: none;\n}\n}\n<\/style>"
       }
     },
+    "1642083482b054bb6e": {
+      "type": "rich-text",
+      "blocks": {
+        "1642083482d429ae41-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1642083482d429ae41-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Un'<\/em><em><strong>erba <\/strong><\/em><em>per <\/em><em><strong>guarirvi<\/strong><\/em><em>,<br\/>un'<\/em><em><strong>erba <\/strong><\/em><em>per <\/em><em><strong>curarvi<\/strong><\/em><em>,<br\/>un'<\/em><em><strong>erba <\/strong><\/em><em>per <\/em><em><strong>calmarvi <\/strong><\/em><em>e<br\/>sul divano <\/em><em><strong>rilassarvi<\/strong><\/em><em>.<\/em><\/p>"
+          }
+        },
+        "1642083482d429ae41-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1642083482d429ae41-0",
+        "1642083482d429ae41-1",
+        "1642083482d429ae41-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -601,6 +636,7 @@
   "order": [
     "16396499084f093828",
     "164079432571964fcd",
+    "1642083482b054bb6e",
     "multi_column",
     "1641237331ce6298a1",
     "featured_products",
