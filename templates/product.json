@@ -75,7 +75,7 @@
         "a5de0810-4fd0-4a5a-b54e-9d428d673fef": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Lore",
+            "heading": "Aspetto",
             "content": "<p>{{ product.metafields.my_fields.aspetto | metafield_tag }}<\/p>",
             "page": "",
             "icon": "eye"
