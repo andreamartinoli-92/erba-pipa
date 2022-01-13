@@ -5,11 +5,6 @@
       "settings": {
       }
     },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -80,7 +75,7 @@
         "a5de0810-4fd0-4a5a-b54e-9d428d673fef": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Aspetto",
+            "heading": "Lore",
             "content": "<p>{{ product.metafields.my_fields.aspetto | metafield_tag }}<\/p>",
             "page": "",
             "icon": "eye"
@@ -124,18 +119,11 @@
         "show_vendor": false,
         "show_rating": false
       }
-    },
-    "shogun-below": {
-      "type": "shogun-below",
-      "settings": {
-      }
     }
   },
   "order": [
     "shogun-helper",
-    "shogun-above",
     "main",
-    "product-recommendations",
-    "shogun-below"
+    "product-recommendations"
   ]
 }
