@@ -1991,6 +1991,79 @@
         "name": "Rich text"
       }
     },
+    "rich-text-section": {
+      "name": "Rich text custom",
+      "settings": {
+        "color_scheme": {
+          "options__1": {
+            "label": "Elemento in risalto 1"
+          },
+          "options__2": {
+            "label": "Elemento in risalto 2"
+          },
+          "options__3": {
+            "label": "Sfondo 1"
+          },
+          "options__4": {
+            "label": "Sfondo 2"
+          },
+          "options__5": {
+            "label": "Inverso"
+          },
+          "label": "Schema di colori"
+        },
+        "full_width": {
+          "label": "Crea sezione a larghezza intera"
+        }
+      },
+      "blocks": {
+        "heading": {
+          "name": "Titolo",
+          "settings": {
+            "heading": {
+              "label": "Titolo"
+            },
+            "heading_size": {
+              "options__1": {
+                "label": "Piccola"
+              },
+              "options__2": {
+                "label": "Media"
+              },
+              "label": "Dimensione font titolo",
+              "options__3": {
+                "label": "Grande"
+              }
+            }
+          }
+        },
+        "text": {
+          "name": "Testo",
+          "settings": {
+            "text": {
+              "label": "Descrizione"
+            }
+          }
+        },
+        "button": {
+          "name": "Pulsante",
+          "settings": {
+            "button_label": {
+              "label": "Etichetta pulsante"
+            },
+            "button_link": {
+              "label": "Link pulsante"
+            },
+            "button_style_secondary": {
+              "label": "Utilizza stile contorno pulsante"
+            }
+          }
+        }
+      },
+      "presets": {
+        "name": "Rich text custom"
+      }
+    },
     "apps": {
       "name": "App",
       "settings": {
