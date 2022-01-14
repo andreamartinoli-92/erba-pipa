@@ -276,14 +276,14 @@
         "2f3d36d9-d8bc-4f6a-b480-ed5fd0841f5c": {
           "type": "text",
           "settings": {
-            "text": "12 grammi (3g x 4)",
+            "text": "12 grammi = 3g x 4",
             "text_style": "body"
           }
         },
         "85f34f67-e3ff-4936-aeac-9ad8f3956874": {
           "type": "text",
           "settings": {
-            "text": "20 grammi (5g x 4)",
+            "text": "20 grammi = 5g x 4",
             "text_style": "body"
           }
         },
