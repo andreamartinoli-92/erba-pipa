@@ -280,6 +280,13 @@
             "text_style": "body"
           }
         },
+        "85f34f67-e3ff-4936-aeac-9ad8f3956874": {
+          "type": "text",
+          "settings": {
+            "text": "20 grammi (5g x 4)",
+            "text_style": "body"
+          }
+        },
         "164123335608f0d3f9-3": {
           "type": "price",
           "settings": {
@@ -318,6 +325,7 @@
         "7a979260-641d-4b82-949e-95d715b7c330",
         "b7b12939-f574-4cef-b8a8-7822d481320b",
         "2f3d36d9-d8bc-4f6a-b480-ed5fd0841f5c",
+        "85f34f67-e3ff-4936-aeac-9ad8f3956874",
         "164123335608f0d3f9-3",
         "164123335608f0d3f9-4",
         "164123335608f0d3f9-5",
