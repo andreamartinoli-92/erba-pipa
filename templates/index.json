@@ -578,7 +578,7 @@
         "1641919370aeb0239b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FAQ.png",
+        "image": "shopify:\/\/shop_images\/HOME_BENEFICI_DESKTOP_1.png",
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
@@ -626,8 +626,8 @@
         "1641919549ad5d4f62-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOBILE_1.png",
-        "image_height": "small",
+        "image": "shopify:\/\/shop_images\/HOME_BENEFICI_MOBILE.png",
+        "image_height": "large",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
