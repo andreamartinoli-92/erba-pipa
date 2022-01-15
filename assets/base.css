@@ -2331,3 +2331,6 @@ details-disclosure > details {
   }
 }
 
+.search-modal{
+  display: none;
+}
