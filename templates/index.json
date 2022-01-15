@@ -55,7 +55,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/spedizione.png",
+            "image": "shopify:\/\/shop_images\/logo_03_1_ca9240f7-12c7-4c99-a698-98c70ea01cc1.png",
             "title": "Spedizione gratuita da 40 €",
             "text": ""
           }
@@ -63,7 +63,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pacco_ed73c6c0-0f82-4eaf-94de-9f3e09657800.png",
+            "image": "shopify:\/\/shop_images\/logo_01_1.png",
             "title": "pacco anonimo",
             "text": ""
           }
@@ -71,7 +71,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/carta.png",
+            "image": "shopify:\/\/shop_images\/logo_04.png",
             "title": "Pagamento sicuro",
             "text": ""
           }
@@ -79,7 +79,7 @@
         "6742c6ba-6ccf-4892-829b-c1899446e104": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/qualita.png",
+            "image": "shopify:\/\/shop_images\/logo_02_1.png",
             "title": "Qualità garantita",
             "text": ""
           }
