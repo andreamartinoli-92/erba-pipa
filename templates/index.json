@@ -93,7 +93,7 @@
       ],
       "settings": {
         "title": "",
-        "image_width": "half",
+        "image_width": "third",
         "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "none",
