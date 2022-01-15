@@ -49,59 +49,6 @@
         "full_width": true
       }
     },
-    "multi_column": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_03bisbis.png",
-            "title": "Spedizione gratuita da 40 €",
-            "text": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_01_1.png",
-            "title": "pacco anonimo",
-            "text": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_04.png",
-            "title": "Pagamento sicuro",
-            "text": ""
-          }
-        },
-        "6742c6ba-6ccf-4892-829b-c1899446e104": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_02_1.png",
-            "title": "Qualità garantita",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "6742c6ba-6ccf-4892-829b-c1899446e104"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "1641237331ce6298a1": {
       "type": "rich-text",
       "blocks": {
@@ -153,6 +100,59 @@
         "show_image_outline": false,
         "show_vendor": false,
         "show_rating": true
+      }
+    },
+    "multi_column": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_03bisbis.png",
+            "title": "Spedizione gratuita da 40 €",
+            "text": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_01_1.png",
+            "title": "pacco anonimo",
+            "text": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_04.png",
+            "title": "Pagamento sicuro",
+            "text": ""
+          }
+        },
+        "6742c6ba-6ccf-4892-829b-c1899446e104": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_02_1.png",
+            "title": "Qualità garantita",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "6742c6ba-6ccf-4892-829b-c1899446e104"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "1638356062b869623a": {
@@ -663,9 +663,9 @@
     "16396499084f093828",
     "164079432571964fcd",
     "1642083482b054bb6e",
-    "multi_column",
     "1641237331ce6298a1",
     "featured_products",
+    "multi_column",
     "1638356062b869623a",
     "16412343026d1ab248",
     "164123335742080591",
