@@ -307,7 +307,7 @@
         "164123335608f0d3f9-6": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "164123335608f0d3f9-7": {
