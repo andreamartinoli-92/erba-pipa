@@ -67,8 +67,10 @@
         render 'icon-play'
       when 'model'
         render 'icon-3d-model'
+      comment
       else
         render 'icon-zoom'
+      endcomment
       endcase
     -%}
   </span>
@@ -89,6 +91,7 @@
       alt="{{ media.preview_image.alt | escape }}"
     >
   </div>
+  {% comment %} disable the media toggle zoom-in on product's images
   <button class="product__media-toggle" type="button" aria-haspopup="dialog" data-media-id="{{ media.id }}">
     <span class="visually-hidden">
       {%- if position == 'featured' %}
@@ -98,6 +101,7 @@
       {%- endif -%}
     </span>
   </button>
+  {% endcomment %}
 </modal-opener>
 
 {%- if media.media_type != 'image' -%}
