@@ -102,59 +102,6 @@
         "show_rating": true
       }
     },
-    "multi_column": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shipping_1.png",
-            "title": "Spedizione gratuita da 40 €",
-            "text": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_01_1.png",
-            "title": "pacco anonimo",
-            "text": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_04.png",
-            "title": "Pagamento sicuro",
-            "text": ""
-          }
-        },
-        "6742c6ba-6ccf-4892-829b-c1899446e104": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_02_1.png",
-            "title": "Qualità garantita",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "6742c6ba-6ccf-4892-829b-c1899446e104"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "1638356062b869623a": {
       "type": "rich-text",
       "blocks": {
@@ -198,7 +145,7 @@
         "16412343026786c063-0": {
           "type": "heading",
           "settings": {
-            "heading": "Prova la nostra box",
+            "heading": "Oppure prova la nostra box",
             "heading_size": "h1"
           }
         },
@@ -338,6 +285,59 @@
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "multi_column": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shipping_1.png",
+            "title": "Spedizione gratuita da 40 €",
+            "text": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_01_1.png",
+            "title": "pacco anonimo",
+            "text": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_04.png",
+            "title": "Pagamento sicuro",
+            "text": ""
+          }
+        },
+        "6742c6ba-6ccf-4892-829b-c1899446e104": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_02_1.png",
+            "title": "Qualità garantita",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "6742c6ba-6ccf-4892-829b-c1899446e104"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "1641911015bcac409a": {
@@ -665,10 +665,10 @@
     "1642083482b054bb6e",
     "1641237331ce6298a1",
     "featured_products",
-    "multi_column",
     "1638356062b869623a",
     "16412343026d1ab248",
     "164123335742080591",
+    "multi_column",
     "1641911015bcac409a",
     "164191433670a552da",
     "16383540912b91b68c",
