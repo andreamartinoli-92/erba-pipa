@@ -402,7 +402,7 @@
     },
     "checkout": {
       "thank_you": {
-        "order_status_confirmed_order_with_email": "Se non ricevi la mail di conferma dell'ordine, controlla nella cartella posta indesiderata"
+        "order_status_confirmed_order_with_email": "Se non ricevi la mail di conferma dell'ordine, controlla nello spam o posta indesiderata"
       }
     }
   },
