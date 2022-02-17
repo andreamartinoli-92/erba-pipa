@@ -399,12 +399,6 @@
   "shopify": {
     "links": {
       "powered_by_shopify": "-\nVia Gisora 4, 21039, Bedero Valcuvia\n-\nP.IVA 03820280125\n-\ninfo@erbapipa.shop"
-    },
-    "checkout": {
-      "thank_you": {
-        "order_status_confirmed_order_with_email": "Se non ricevi la mail di conferma dell'ordine, controlla nella posta indesiderata o nella cartella Promozioni",
-        "thank_you_confirmed_order_with_email": "Se non ricevi alcuna mail di conferma dell'ordine, controlla nella \"Posta indesiderata\" o nella cartella \"Promozioni\"."
-      }
     }
   },
   "pagefly": {
