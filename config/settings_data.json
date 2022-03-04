@@ -83,7 +83,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Spedizione gratuita per ordini a partire da 40 €",
+              "text": "Spedizione gratuita per ordini a partire da 40 €. Codice sconto: CONTEA20",
               "color_scheme": "accent-1",
               "link": ""
             }
