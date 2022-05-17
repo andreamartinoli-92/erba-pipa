@@ -12,13 +12,13 @@
         "16527931098fb6de2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "1"
+            "heading": "Decotto di cannabis"
           }
         },
         "16527931098fb6de2d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis<\/strong> e poi <strong>coprire <\/strong>il pentolino con un coperchio.<\/p>"
+            "text": "<p>1) Riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis<\/strong> e poi <strong>coprire <\/strong>il pentolino con un coperchio.<\/p>"
           }
         },
         "16527931098fb6de2d-2": {
@@ -39,7 +39,7 @@
         "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "1652793127ead20904": {
@@ -47,6 +47,7 @@
       "blocks": {
         "16527931270d0e4c5f-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "2"
           }
@@ -54,7 +55,7 @@
         "16527931270d0e4c5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Accendete il fuoco per portare l'acqua a <strong>ebollizione<\/strong> e una volta <strong>raggiunta<\/strong> lasciate che si protragga per almeno <strong>25 minuti<\/strong> aggiungendo, eventualmente, altra acqua <strong>già bollente<\/strong>. L'acqua non raggiungerà mai le temperature adatte alla completa decarbossilazione della cannabis (circa 180°C), perciò allungare i tempi è la soluzione più conveniente.<\/p>"
+            "text": "<p>2) Accendete il fuoco per portare l'acqua a <strong>ebollizione<\/strong> e una volta <strong>raggiunta<\/strong> lasciate che si protragga per almeno <strong>25 minuti<\/strong> aggiungendo, eventualmente, altra acqua <strong>già bollente<\/strong>. L'acqua non raggiungerà mai le temperature adatte alla completa decarbossilazione della cannabis (circa 180°C), perciò allungare i tempi è la soluzione più conveniente.<\/p>"
           }
         },
         "16527931270d0e4c5f-2": {
@@ -83,14 +84,15 @@
       "blocks": {
         "1652793135334c8cbb-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "3"
+            "heading": ""
           }
         },
         "1652793135334c8cbb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A questo punto è il caso di aggiungere un <strong>20% di latte intero <\/strong>(in rapporto all'acqua contenuta nel recipiente) per favorire una reale <strong>estrazione <\/strong>dei cannabinoidi, che sono liposolubili. Lasciar bollire per altri 25 minuti per poi spegnere il fuoco e far raffreddare il decotto.<\/p>"
+            "text": "<p>3) A questo punto è il caso di aggiungere un <strong>20% di latte intero <\/strong>(in rapporto all'acqua contenuta nel recipiente) per favorire una reale <strong>estrazione <\/strong>dei cannabinoidi, che sono liposolubili. Lasciar bollire per altri 25 minuti per poi spegnere il fuoco e far raffreddare il decotto.<\/p>"
           }
         },
         "1652793135334c8cbb-2": {
@@ -108,9 +110,58 @@
         "1652793135334c8cbb-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/Process-Shots-Cold-Start-IP-Yogurt-1.jpg",
+        "height": "small",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
+      }
+    },
+    "1652793941625591db": {
+      "type": "image-banner",
+      "blocks": {
+        "16527939414af7ff0a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "16527939414af7ff0a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16527939414af7ff0a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16527939414af7ff0a-0",
+        "16527939414af7ff0a-1",
+        "16527939414af7ff0a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/istock-854211920-1579256676-1440w.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "16527933322af415c3": {
@@ -154,6 +205,7 @@
     "16527931091986ffc8",
     "1652793127ead20904",
     "1652793135f0fa489c",
+    "1652793941625591db",
     "16527933322af415c3"
   ]
 }
