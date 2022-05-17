@@ -120,15 +120,14 @@
       "blocks": {
         "16527931270d0e4c5f-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "2"
+            "heading": "3) Cottura"
           }
         },
         "16527931270d0e4c5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>2) Accendete il fuoco per portare l'acqua a <strong>ebollizione<\/strong> e una volta <strong>raggiunta<\/strong> lasciate che si protragga per almeno <strong>25 minuti<\/strong> aggiungendo, eventualmente, altra acqua <strong>già bollente<\/strong>. L'acqua non raggiungerà mai le temperature adatte alla completa decarbossilazione della cannabis (circa 180°C), perciò allungare i tempi è la soluzione più conveniente.<\/p>"
+            "text": "<p>Poni sul fuoco un pentolino con dell’acqua insieme al trito di canapa.<br\/>Quando bollirà, copri il tutto con un coperchio e lasciate che si protragga per almeno <strong>20\/25 minuti<\/strong>. L'acqua non raggiungerà mai le temperature adatte alla completa decarbossilazione della cannabis (circa 180°C), perciò allungare i tempi è la soluzione più conveniente.<\/p>"
           }
         },
         "16527931270d0e4c5f-2": {
@@ -196,7 +195,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image banner",
+            "heading": "4) Addizionare il latte",
             "heading_size": "medium"
           }
         },
