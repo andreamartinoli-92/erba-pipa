@@ -20,7 +20,7 @@
         "165280167131b56a93-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Se si sono acquistate <strong>infiorescenze di canapa sativa<\/strong> è possibile prepararsi in casa l’infuso lavorando personalmente il prodotto. <\/p><p>I passaggi da seguire sono questi<\/p>"
+            "text": "<p>Se si sono acquistate <strong>infiorescenze di canapa sativa<\/strong> è possibile prepararsi in casa il <strong>decotto<\/strong> lavorando personalmente il prodotto. <br\/><\/p><p>Cosa vi serve?<br\/>- Una pentola<br\/>- Un filtro a sfera (non necessario)<\/p><p><strong>Ecco gli ingredienti:<\/strong><br\/><strong>- 200 mg di canapa<br\/>- 250 ml di acqua<br\/>- 15g di latte intero<br\/><\/strong><\/p><p><\/p>"
           }
         },
         "165280167131b56a93-2": {
@@ -156,15 +156,14 @@
       "blocks": {
         "1652793135334c8cbb-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": ""
+            "heading": "4) Addizionare il latte"
           }
         },
         "1652793135334c8cbb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>3) A questo punto è il caso di aggiungere un <strong>20% di latte intero <\/strong>(in rapporto all'acqua contenuta nel recipiente) per favorire una reale <strong>estrazione <\/strong>dei cannabinoidi, che sono liposolubili. Lasciar bollire per altri 25 minuti per poi spegnere il fuoco e far raffreddare il decotto.<\/p>"
+            "text": "<p>Trascorsi i venti minuti, abbassa la fiamma e aggiungi 15 gr di latte intero ogni 100 mg di cannabis. Lascia ancora andare il preparato per altri 15\/20 minuti poi spegnere il fuoco e far raffreddare il decotto.<\/p>"
           }
         },
         "1652793135334c8cbb-2": {
@@ -241,7 +240,6 @@
       "blocks": {
         "1652793332420c5dfc-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "4",
             "heading_size": "h1"
@@ -250,7 +248,7 @@
         "1652793332420c5dfc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Si consiglia di bere il decotto facendo molta attenzione a <strong>recuperare <\/strong>tutti i <strong>residui <\/strong>di cannabis che, a causa della particolare interazione con l'acqua, avranno aderito alla tazza invece che rimanere in infusione; così potrete minimizzare la perdita di sostanza vegetale.<\/p>"
+            "text": "<p>Ora puoi trasferire il composto in una tazza e zuccherarlo a piacere con zucchero, miele o stevia.<\/p><p>Si consiglia di bere il decotto facendo molta attenzione a <strong>recuperare <\/strong>tutti i <strong>residui <\/strong>di cannabis che, a causa della particolare interazione con l'acqua, avranno aderito alla tazza invece che rimanere in infusione.<\/p>"
           }
         },
         "1652793332420c5dfc-2": {
