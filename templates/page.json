@@ -12,14 +12,14 @@
         "165280167131b56a93-0": {
           "type": "heading",
           "settings": {
-            "heading": "DECOTTO DI CANNABIS",
+            "heading": "BURRO DI CANNABIS",
             "heading_size": "h1"
           }
         },
         "165280167131b56a93-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ecco gli ingredienti:<\/strong><br\/><strong>- 200 mg di canapa<br\/>- 250 ml di acqua<br\/>- 15g di latte intero<br\/><\/strong><\/p><p><\/p>"
+            "text": "<p><strong>Ecco gli ingredienti:<\/strong><br\/><strong>- 250\/30g di burro<br\/>- 500 ml di acqua<br\/>- 20g di cime o 50g di fiori e foglie<br\/><\/strong><\/p><p><\/p>"
           }
         },
         "165280167131b56a93-2": {
@@ -48,13 +48,13 @@
         "16528016763db89368-0": {
           "type": "heading",
           "settings": {
-            "heading": "1) Tritare le infiorescenze"
+            "heading": "1) Decarbossilazione della marijuana in forno"
           }
         },
         "16528016763db89368-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Questa è la prima operazione da fare. Ti consigliamo di utilizzare un <strong>grinder<\/strong>, uno strumento che ti consentirà di <strong>sminuzzarle<\/strong> senza andarle a <strong>polverizzare.<\/strong> Una volta ottenuti i trinciati puoi inserirli, se ti è più comodo, in un <strong>filtro a sfera <\/strong>o in una <strong>bustina di tè <\/strong>svuotata del suo contenuto.  Oppure metterli direttamente in acqua.<\/p>"
+            "text": "<p>Tiriamo fuori un vassoio e mettiamo un foglio di carta da forno<br\/>Ci distribuiamo sopra la marijuana tritata in modo da lasciare uno strato sottile il più omogeneo possibile<\/p><p>Preriscaldiamo il forno a 105ºC<\/p><p>Quando ha raggiunto quella temperatura, mettiamo il vassoio che abbiamo preparato in precedenza con il trito di cannabis<\/p><p>Aspettiamo dai 45 ai 50 minuti e tiriamo fuori l'erba<\/p>"
           }
         },
         "16528016763db89368-2": {
@@ -72,8 +72,8 @@
         "16528016763db89368-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/istockphoto-146888674-612x612.jpg",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/la-decarboxylation-en-6-etapes-15.jpg",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -84,13 +84,13 @@
         "16527931098fb6de2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "2) Mettere la canapa in acqua"
+            "heading": "2) Ebollizione"
           }
         },
         "16527931098fb6de2d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis<\/strong> e poi <strong>coprire <\/strong>il pentolino con un coperchio. <\/p>"
+            "text": "<p>In una pentola, metti a bollire l’acqua. Quando l’acqua è in ebollizione, abbassa il fuoco, in modo che l’acqua rimanga calda.<\/p>"
           }
         },
         "16527931098fb6de2d-2": {
@@ -108,7 +108,7 @@
         "16527931098fb6de2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
+        "image": "shopify:\/\/shop_images\/acqua-che-bolle.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -120,13 +120,13 @@
         "16527931270d0e4c5f-0": {
           "type": "heading",
           "settings": {
-            "heading": "3) Cottura"
+            "heading": "3) Aggiungi la cannabis"
           }
         },
         "16527931270d0e4c5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Poni sul fuoco un pentolino con dell’acqua insieme al trito di canapa.<br\/>Quando bollirà, copri il tutto con un coperchio e lasciate che si protragga per almeno <strong>20\/25 minuti<\/strong>. L'acqua non raggiungerà mai le temperature adatte alla completa decarbossilazione della cannabis (circa 180°C), perciò allungare i tempi è la soluzione più conveniente.<\/p>"
+            "text": "<p>Quando vedi che l’acqua ha smesso di bollire, tienila così e poi aggiungi i resti di marijuana.<\/p><p>Lascia la fiamma a un livello medio e mescola per 10-15 minuti.<\/p>"
           }
         },
         "16527931270d0e4c5f-2": {
@@ -144,7 +144,7 @@
         "16527931270d0e4c5f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/acqua-che-bolle.jpg",
+        "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -156,13 +156,13 @@
         "1652793135334c8cbb-0": {
           "type": "heading",
           "settings": {
-            "heading": "4) Addizionare il latte"
+            "heading": "4) Addizionare il burro"
           }
         },
         "1652793135334c8cbb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Trascorsi i venti minuti, abbassa la fiamma e aggiungi 15 gr di latte intero ogni 100 mg di cannabis. Lascia ancora andare il preparato per altri 15\/20 minuti poi spegnere il fuoco e far raffreddare il decotto.<\/p>"
+            "text": "<p>Successivamente, devi aggiungere il <strong>burro<\/strong> nella pentola insieme all’<strong>acqua<\/strong> e alla <strong>marijuana<\/strong> e mescolare fino a vedere che si è <strong>sciolto e mescolato correttamente<\/strong> con il tutto. <br\/><strong>Circa 30 o 35 minuti<\/strong>.<\/p>"
           }
         },
         "1652793135334c8cbb-2": {
@@ -180,7 +180,7 @@
         "1652793135334c8cbb-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Process-Shots-Cold-Start-IP-Yogurt-1.jpg",
+        "image": "shopify:\/\/shop_images\/1butter_2721542b.webp",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -223,7 +223,7 @@
         "16527939414af7ff0a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/istock-854211920-1579256676-1440w.jpg",
+        "image": "shopify:\/\/shop_images\/cannabis_butter.jpg",
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -247,7 +247,7 @@
         "1652793332420c5dfc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ora puoi trasferire il composto in una tazza e zuccherarlo a piacere con zucchero, miele o stevia.<\/p><p>Si consiglia di bere il decotto facendo molta attenzione a <strong>recuperare <\/strong>tutti i <strong>residui <\/strong>di cannabis che, a causa della particolare interazione con l'acqua, avranno aderito alla tazza invece che rimanere in infusione.<\/p>"
+            "text": "<p>Trascorso questo tempo, coliamo il composto con un colino, in un contenitore di vetro e lasciarlo riposare a temperatura ambiente più o meno per un paio d'ore e poi riponete in frigo fino a quando il burro se si sarà solidificato e quando questo avviene, è il momento di eliminare l'acqua in eccesso.<\/p><p>Una volta tolta tutta l’acqua, rimettete pure il contenitore in frigo: avrete pronto il vostro meraviglioso e delizioso burro alla marijuana.<\/p>"
           }
         },
         "1652793332420c5dfc-2": {
