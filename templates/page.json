@@ -73,7 +73,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/acqua-che-bolle.jpg",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
