@@ -4,9 +4,154 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16527931091986ffc8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16527931098fb6de2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1"
+          }
+        },
+        "16527931098fb6de2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis<\/strong> e poi <strong>coprire <\/strong>il pentolino con un coperchio.<\/p>"
+          }
+        },
+        "16527931098fb6de2d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16527931098fb6de2d-0",
+        "16527931098fb6de2d-1",
+        "16527931098fb6de2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1652793127ead20904": {
+      "type": "image-with-text",
+      "blocks": {
+        "16527931270d0e4c5f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "2"
+          }
+        },
+        "16527931270d0e4c5f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Accendete il fuoco per portare l'acqua a <strong>ebollizione<\/strong> e una volta <strong>raggiunta<\/strong> lasciate che si protragga per almeno <strong>25 minuti<\/strong> aggiungendo, eventualmente, altra acqua <strong>già bollente<\/strong>. L'acqua non raggiungerà mai le temperature adatte alla completa decarbossilazione della cannabis (circa 180°C), perciò allungare i tempi è la soluzione più conveniente.<\/p>"
+          }
+        },
+        "16527931270d0e4c5f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16527931270d0e4c5f-0",
+        "16527931270d0e4c5f-1",
+        "16527931270d0e4c5f-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1652793135f0fa489c": {
+      "type": "image-with-text",
+      "blocks": {
+        "1652793135334c8cbb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3"
+          }
+        },
+        "1652793135334c8cbb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A questo punto è il caso di aggiungere un <strong>20% di latte intero <\/strong>(in rapporto all'acqua contenuta nel recipiente) per favorire una reale <strong>estrazione <\/strong>dei cannabinoidi, che sono liposolubili. Lasciar bollire per altri 25 minuti per poi spegnere il fuoco e far raffreddare il decotto.<\/p>"
+          }
+        },
+        "1652793135334c8cbb-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1652793135334c8cbb-0",
+        "1652793135334c8cbb-1",
+        "1652793135334c8cbb-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16527933322af415c3": {
+      "type": "rich-text",
+      "blocks": {
+        "1652793332420c5dfc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "4",
+            "heading_size": "h1"
+          }
+        },
+        "1652793332420c5dfc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si consiglia di bere il decotto facendo molta attenzione a <strong>recuperare <\/strong>tutti i <strong>residui <\/strong>di cannabis che, a causa della particolare interazione con l'acqua, avranno aderito alla tazza invece che rimanere in infusione; così potrete minimizzare la perdita di sostanza vegetale.<\/p>"
+          }
+        },
+        "1652793332420c5dfc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Provalo ora!",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1652793332420c5dfc-0",
+        "1652793332420c5dfc-1",
+        "1652793332420c5dfc-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16527931091986ffc8",
+    "1652793127ead20904",
+    "1652793135f0fa489c",
+    "16527933322af415c3"
   ]
 }
