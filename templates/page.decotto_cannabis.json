@@ -1,0 +1,283 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16528016717006654f": {
+      "type": "rich-text",
+      "blocks": {
+        "165280167131b56a93-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BURRO ALLA CANNABIS",
+            "heading_size": "h1"
+          }
+        },
+        "165280167131b56a93-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ecco gli ingredienti:<\/strong><br\/><strong>- 250\/30g di burro<br\/>- 500 ml di acqua<br\/>- 20g di cime o 50g di fiori e foglie<br\/><\/strong><\/p><p><\/p>"
+          }
+        },
+        "165280167131b56a93-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165280167131b56a93-0",
+        "165280167131b56a93-1",
+        "165280167131b56a93-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1652801676bcc26c87": {
+      "type": "image-with-text",
+      "blocks": {
+        "16528016763db89368-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1) Decarbossilazione della marijuana in forno"
+          }
+        },
+        "16528016763db89368-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tiriamo fuori un vassoio e mettiamo un foglio di carta da forno<br\/>Ci distribuiamo sopra la marijuana tritata in modo da lasciare uno strato sottile il più omogeneo possibile<\/p><p>Preriscaldiamo il forno a 105ºC<\/p><p>Quando ha raggiunto quella temperatura, mettiamo il vassoio che abbiamo preparato in precedenza con il trito di cannabis<\/p><p>Aspettiamo dai 45 ai 50 minuti e tiriamo fuori l'erba<\/p>"
+          }
+        },
+        "16528016763db89368-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16528016763db89368-0",
+        "16528016763db89368-1",
+        "16528016763db89368-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/la-decarboxylation-en-6-etapes-15.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16527931091986ffc8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16527931098fb6de2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "2) Ebollizione"
+          }
+        },
+        "16527931098fb6de2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In una pentola, metti a bollire l’acqua. Quando l’acqua è in ebollizione, abbassa il fuoco, in modo che l’acqua rimanga calda.<\/p>"
+          }
+        },
+        "16527931098fb6de2d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16527931098fb6de2d-0",
+        "16527931098fb6de2d-1",
+        "16527931098fb6de2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/acqua-che-bolle.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1652793127ead20904": {
+      "type": "image-with-text",
+      "blocks": {
+        "16527931270d0e4c5f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3) Aggiungi la cannabis"
+          }
+        },
+        "16527931270d0e4c5f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quando vedi che l’acqua ha smesso di bollire, tienila così e poi aggiungi i resti di marijuana.<\/p><p>Lascia la fiamma a un livello medio e mescola per 10-15 minuti.<\/p>"
+          }
+        },
+        "16527931270d0e4c5f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16527931270d0e4c5f-0",
+        "16527931270d0e4c5f-1",
+        "16527931270d0e4c5f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1652793135f0fa489c": {
+      "type": "image-with-text",
+      "blocks": {
+        "1652793135334c8cbb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "4) Addizionare il burro"
+          }
+        },
+        "1652793135334c8cbb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Successivamente, devi aggiungere il <strong>burro<\/strong> nella pentola insieme all’<strong>acqua<\/strong> e alla <strong>marijuana<\/strong> e mescolare fino a vedere che si è <strong>sciolto e mescolato correttamente<\/strong> con il tutto. <br\/><strong>Circa 30 o 35 minuti<\/strong>.<\/p>"
+          }
+        },
+        "1652793135334c8cbb-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1652793135334c8cbb-0",
+        "1652793135334c8cbb-1",
+        "1652793135334c8cbb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1butter_2721542b.webp",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1652793941625591db": {
+      "type": "image-banner",
+      "blocks": {
+        "16527939414af7ff0a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "4) Addizionare il latte",
+            "heading_size": "medium"
+          }
+        },
+        "16527939414af7ff0a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16527939414af7ff0a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16527939414af7ff0a-0",
+        "16527939414af7ff0a-1",
+        "16527939414af7ff0a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cannabis_butter.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16527933322af415c3": {
+      "type": "rich-text",
+      "blocks": {
+        "1652793332420c5dfc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "4",
+            "heading_size": "h1"
+          }
+        },
+        "1652793332420c5dfc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trascorso questo tempo, coliamo il composto con un colino, in un contenitore di vetro e lasciarlo riposare a temperatura ambiente più o meno per un paio d'ore e poi riponete in frigo fino a quando il burro se si sarà solidificato e quando questo avviene, è il momento di eliminare l'acqua in eccesso.<\/p><p>Una volta tolta tutta l’acqua, rimettete pure il contenitore in frigo: avrete pronto il vostro meraviglioso e delizioso burro alla marijuana.<\/p>"
+          }
+        },
+        "1652793332420c5dfc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Provalo ora!",
+            "button_link": "shopify:\/\/products\/compagnia-del-cbd",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1652793332420c5dfc-0",
+        "1652793332420c5dfc-1",
+        "1652793332420c5dfc-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16528016717006654f",
+    "1652801676bcc26c87",
+    "16527931091986ffc8",
+    "1652793127ead20904",
+    "1652793135f0fa489c",
+    "1652793941625591db",
+    "16527933322af415c3"
+  ]
+}
