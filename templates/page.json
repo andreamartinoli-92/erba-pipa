@@ -6,19 +6,56 @@
       "settings": {
       }
     },
+    "16528016717006654f": {
+      "type": "rich-text",
+      "blocks": {
+        "165280167131b56a93-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "165280167131b56a93-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Se si sono acquistate <strong>infiorescenze di canapa sativa<\/strong> è possibile prepararsi in casa l’infuso lavorando personalmente il prodotto. <\/p><p>I passaggi da seguire sono questi<\/p>"
+          }
+        },
+        "165280167131b56a93-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165280167131b56a93-0",
+        "165280167131b56a93-1",
+        "165280167131b56a93-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "16527931091986ffc8": {
       "type": "image-with-text",
       "blocks": {
         "16527931098fb6de2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Decotto di cannabis"
+            "heading": "2) Mettere la canapa in acqua"
           }
         },
         "16527931098fb6de2d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>1) Riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis<\/strong> e poi <strong>coprire <\/strong>il pentolino con un coperchio.<\/p>"
+            "text": "<p>Riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis<\/strong> e poi <strong>coprire <\/strong>il pentolino con un coperchio. <\/p>"
           }
         },
         "16527931098fb6de2d-2": {
@@ -169,6 +206,7 @@
       "blocks": {
         "1652793332420c5dfc-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "4",
             "heading_size": "h1"
@@ -198,14 +236,52 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1652801676bcc26c87": {
+      "type": "image-with-text",
+      "blocks": {
+        "16528016763db89368-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1) Tritare le infiorescenze"
+          }
+        },
+        "16528016763db89368-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Questa è la prima operazione da fare. Ti consigliamo di utilizzare un <strong>grinder<\/strong>, uno strumento che ti consentirà di <strong>sminuzzarle<\/strong> senza andarle a <strong>polverizzare.<\/strong> Una volta ottenuti i trinciati puoi inserirli in un <strong>filtro a sfera <\/strong>oppure in una <strong>bustina di tè <\/strong>svuotata del suo contenuto. <\/p>"
+          }
+        },
+        "16528016763db89368-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16528016763db89368-0",
+        "16528016763db89368-1",
+        "16528016763db89368-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/istockphoto-146888674-612x612.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
+    "16528016717006654f",
     "16527931091986ffc8",
     "1652793127ead20904",
     "1652793135f0fa489c",
     "1652793941625591db",
-    "16527933322af415c3"
+    "16527933322af415c3",
+    "1652801676bcc26c87"
   ]
 }
