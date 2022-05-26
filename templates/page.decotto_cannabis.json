@@ -19,7 +19,7 @@
         "165280167131b56a93-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ecco gli ingredienti:<\/strong><br\/><strong>- 250\/30g di burro<br\/>- 500 ml di acqua<br\/>- 20g di cime o 50g di fiori e foglie<br\/><\/strong><\/p><p><\/p>"
+            "text": "<p><strong>Ecco gli ingredienti:<br\/>- 500 ml di acqua<br\/>- 100ml di latte<br\/>- 1g di canapa light (dose varibile)<br\/><\/strong><\/p><p><\/p>"
           }
         },
         "165280167131b56a93-2": {
@@ -48,13 +48,13 @@
         "16528016763db89368-0": {
           "type": "heading",
           "settings": {
-            "heading": "1) Decarbossilazione della marijuana in forno"
+            "heading": "1) Mettere insieme acqua e canapa"
           }
         },
         "16528016763db89368-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Tiriamo fuori un vassoio e mettiamo un foglio di carta da forno<br\/>Ci distribuiamo sopra la marijuana tritata in modo da lasciare uno strato sottile il più omogeneo possibile<\/p><p>Preriscaldiamo il forno a 105ºC<\/p><p>Quando ha raggiunto quella temperatura, mettiamo il vassoio che abbiamo preparato in precedenza con il trito di cannabis<\/p><p>Aspettiamo dai 45 ai 50 minuti e tiriamo fuori l'erba<\/p>"
+            "text": "<p>Riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis <\/strong>e poi <strong>coprire<\/strong>il pentolino con un coperchio.<\/p>"
           }
         },
         "16528016763db89368-2": {
@@ -72,7 +72,7 @@
         "16528016763db89368-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/la-decarboxylation-en-6-etapes-15.jpg",
+        "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
