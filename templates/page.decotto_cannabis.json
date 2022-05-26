@@ -90,7 +90,7 @@
         "16527931098fb6de2d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>In una pentola, metti a bollire l’acqua. Quando l’acqua è in ebollizione, abbassa il fuoco, in modo che l’acqua rimanga calda.<\/p>"
+            "text": "<p>Accendete il fuoco per portare l'acqua a<strong> ebollizione <\/strong>e una volta <strong>raggiunta <\/strong>lasciate che si protragga per almeno <strong>25 minuti.<\/strong><\/p>"
           }
         },
         "16527931098fb6de2d-2": {
@@ -120,13 +120,13 @@
         "16527931270d0e4c5f-0": {
           "type": "heading",
           "settings": {
-            "heading": "3) Aggiungi la cannabis"
+            "heading": "3) Aggiungi il latte"
           }
         },
         "16527931270d0e4c5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Quando vedi che l’acqua ha smesso di bollire, tienila così e poi aggiungi i resti di marijuana.<\/p><p>Lascia la fiamma a un livello medio e mescola per 10-15 minuti.<\/p>"
+            "text": "<p>A questo punto è il caso di aggiungere il<strong> latte intero <\/strong>per favorire una reale<strong> estrazione <\/strong>dei cannabinoidi, che sono liposolubili. Lasciar bollire per altri <strong>25 minuti<\/strong> per poi spegnere il fuoco e far raffreddare il decotto.<\/p>"
           }
         },
         "16527931270d0e4c5f-2": {
@@ -144,7 +144,7 @@
         "16527931270d0e4c5f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
+        "image": "shopify:\/\/shop_images\/Process-Shots-Cold-Start-IP-Yogurt-1.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -152,6 +152,7 @@
     },
     "1652793135f0fa489c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1652793135334c8cbb-0": {
           "type": "heading",
@@ -162,7 +163,7 @@
         "1652793135334c8cbb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Successivamente, devi aggiungere il <strong>burro<\/strong> nella pentola insieme all’<strong>acqua<\/strong> e alla <strong>marijuana<\/strong> e mescolare fino a vedere che si è <strong>sciolto e mescolato correttamente<\/strong> con il tutto. <br\/><strong>Circa 30 o 35 minuti<\/strong>.<\/p>"
+            "text": ""
           }
         },
         "1652793135334c8cbb-2": {
@@ -223,7 +224,7 @@
         "16527939414af7ff0a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cannabis_butter.jpg",
+        "image": "shopify:\/\/shop_images\/istock-854211920-1579256676-1440w.jpg",
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -247,7 +248,7 @@
         "1652793332420c5dfc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Trascorso questo tempo, coliamo il composto con un colino, in un contenitore di vetro e lasciarlo riposare a temperatura ambiente più o meno per un paio d'ore e poi riponete in frigo fino a quando il burro se si sarà solidificato e quando questo avviene, è il momento di eliminare l'acqua in eccesso.<\/p><p>Una volta tolta tutta l’acqua, rimettete pure il contenitore in frigo: avrete pronto il vostro meraviglioso e delizioso burro alla marijuana.<\/p>"
+            "text": "<p>Si lascia così <strong>raffreddare <\/strong>quanto basta, controllando che non rimangano residui “incollati” alle pareti del pentolino, si dolcifica se necessario e si consuma.<\/p><p><strong>NON è necessario filtrare<\/strong>, anche gli eventuali pezzettini di infiorescenza possono essere ingeriti senza pericolo. Secondo alcuni, potrebbero ancora contenere dei principi attivi che il corpo può assorbire.<\/p>"
           }
         },
         "1652793332420c5dfc-2": {
