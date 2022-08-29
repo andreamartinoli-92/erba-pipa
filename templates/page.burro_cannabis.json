@@ -188,6 +188,7 @@
     },
     "1652793941625591db": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16527939414af7ff0a-0": {
           "type": "heading",
@@ -236,6 +237,7 @@
     },
     "16527933322af415c3": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1652793332420c5dfc-0": {
           "type": "heading",
@@ -275,7 +277,7 @@
         "1661780466b094c1b1-0": {
           "type": "heading",
           "settings": {
-            "heading": "4) Gran finale"
+            "heading": "5) Gran finale"
           }
         },
         "1661780466b094c1b1-1": {
@@ -301,7 +303,7 @@
         "image": "shopify:\/\/shop_images\/cannabis_butter.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     }
   },
