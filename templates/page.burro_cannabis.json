@@ -268,6 +268,41 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "16617804666f743722": {
+      "type": "image-with-text",
+      "blocks": {
+        "1661780466b094c1b1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "4) Gran finale"
+          }
+        },
+        "1661780466b094c1b1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trascorso questo tempo, coliamo il composto con un colino, in un contenitore di vetro e lasciarlo riposare a temperatura ambiente più o meno per un paio d'ore e poi riponete in frigo fino a quando il burro se si sarà solidificato e quando questo avviene, è il momento di eliminare l'acqua in eccesso.<\/p><p>Una volta tolta tutta l’acqua, rimettete pure il contenitore in frigo: avrete pronto il vostro meraviglioso e delizioso <strong>Burro alla Marijuana<\/strong>.<\/p>"
+          }
+        },
+        "1661780466b094c1b1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Provalo ora!",
+            "button_link": "shopify:\/\/products\/compagnia-del-cbd"
+          }
+        }
+      },
+      "block_order": [
+        "1661780466b094c1b1-0",
+        "1661780466b094c1b1-1",
+        "1661780466b094c1b1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cannabis_butter.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -278,6 +313,7 @@
     "1652793127ead20904",
     "1652793135f0fa489c",
     "1652793941625591db",
-    "16527933322af415c3"
+    "16527933322af415c3",
+    "16617804666f743722"
   ]
 }
