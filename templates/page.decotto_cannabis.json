@@ -189,6 +189,7 @@
     },
     "1652793941625591db": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16527939414af7ff0a-0": {
           "type": "heading",
@@ -237,6 +238,7 @@
     },
     "16527933322af415c3": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1652793332420c5dfc-0": {
           "type": "heading",
@@ -269,6 +271,42 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1661780267d12f1961": {
+      "type": "image-with-text",
+      "blocks": {
+        "1661780267d0e9a9c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "4) Gran finale"
+          }
+        },
+        "1661780267d0e9a9c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si lascia così <strong>raffreddare <\/strong>quanto basta, controllando che non rimangano residui “incollati” alle pareti del pentolino, si dolcifica se necessario e si consuma.<\/p><p><strong>NON è necessario filtrare<\/strong>, anche gli eventuali pezzettini di infiorescenza possono essere ingeriti senza pericolo. Secondo alcuni, potrebbero ancora contenere dei principi attivi che il corpo può assorbire.<\/p>"
+          }
+        },
+        "1661780267d0e9a9c7-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661780267d0e9a9c7-0",
+        "1661780267d0e9a9c7-1",
+        "1661780267d0e9a9c7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/istock-854211920-1579256676-1440w.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -279,6 +317,7 @@
     "1652793127ead20904",
     "1652793135f0fa489c",
     "1652793941625591db",
-    "16527933322af415c3"
+    "16527933322af415c3",
+    "1661780267d12f1961"
   ]
 }
