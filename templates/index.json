@@ -428,7 +428,7 @@
         "163835409131a405d7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Il progetto <strong>Erba Pipa<\/strong> è il risultato di un'idea semplice, naturale, biologica.<\/p><p>La nostra missione è promuovere, tramite una<strong> coltivazione interamente biologica,<\/strong> gli <strong>immensi benefici della canapa per <\/strong>migliorare la salute fisica e mentale delle persone.<\/p>"
+            "text": "<p>Il progetto <strong>Erba Pipa<\/strong> è il risultato di un'idea semplice, naturale ed ecologica.<\/p><p>La nostra missione è promuovere, tramite una<strong> coltivazione interamente biologica,<\/strong> gli <strong>immensi benefici della canapa per <\/strong>migliorare la salute fisica e mentale delle persone.<\/p>"
           }
         },
         "163835409131a405d7-2": {
@@ -642,9 +642,8 @@
       "type": "apps",
       "blocks": {
         "c847eb9b-a414-46c1-bf40-4907dba7c3da": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "century_gothic_n7",
             "heading_size": 30,
             "feed_width": 100,
             "html_area": ""
