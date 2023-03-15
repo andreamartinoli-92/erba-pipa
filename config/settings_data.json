@@ -106,6 +106,20 @@
           "show_line_separator": true,
           "enable_sticky_header": true
         }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/chuck_out_a267761f-8bce-41b8-8bc5-27ce69b25aab.png",
+          "logo_max_width": 80,
+          "color_scheme": "background-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "accent-1"
+        }
       }
     },
     "content_for_index": [
