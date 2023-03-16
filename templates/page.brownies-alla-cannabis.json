@@ -84,13 +84,13 @@
         "16527931098fb6de2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "2) Ebollizione"
+            "heading": "2) Aggiungere uova e zucchero"
           }
         },
         "16527931098fb6de2d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>In una pentola, metti a bollire l’acqua. Quando l’acqua è in ebollizione, abbassa il fuoco, in modo che l’acqua rimanga calda.<\/p>"
+            "text": "<p>Nel frattempo, tostate le nocciole in una padella e mettetele da parte. In una capiente ciotola, versate lo zucchero e le uova, e montate il tutto con l'ausilio delle fruste elettriche, aggiungendo anche il sale.<\/p>"
           }
         },
         "16527931098fb6de2d-2": {
@@ -108,10 +108,10 @@
         "16527931098fb6de2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/acqua-bolle.jpg",
+        "image": "shopify:\/\/shop_images\/2.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "1652793127ead20904": {
@@ -120,13 +120,13 @@
         "16527931270d0e4c5f-0": {
           "type": "heading",
           "settings": {
-            "heading": "3) Aggiungi la cannabis"
+            "heading": "3) Metti insieme le due miscele"
           }
         },
         "16527931270d0e4c5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Quando vedi che l’acqua ha smesso di bollire, tienila così e poi aggiungi la <strong>cannabis<\/strong>.<\/p><p>Lascia la fiamma a un livello medio e mescola per 10-15 minuti.<\/p>"
+            "text": "<p>Una volta che avete ottenuto una miscela chiara e spumosa, aggiungete il composto di cioccolato e burro intiepidito e mescolate con le fruste per circa due minuti. Infine, setacciate la farina e il cacao nella ciotola e incorporate le due polveri al composto insimee alle nocciole.<\/p>"
           }
         },
         "16527931270d0e4c5f-2": {
@@ -144,7 +144,7 @@
         "16527931270d0e4c5f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pentolico-con-erba-1280x640.jpg",
+        "image": "shopify:\/\/shop_images\/3.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -156,13 +156,13 @@
         "1652793135334c8cbb-0": {
           "type": "heading",
           "settings": {
-            "heading": "4) Addizionare il burro"
+            "heading": "4) Metti in forno"
           }
         },
         "1652793135334c8cbb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Successivamente, devi aggiungere il <strong>burro<\/strong> nella pentola insieme all’<strong>acqua<\/strong> e alla <strong>marijuana<\/strong> e mescolare fino a vedere che si è <strong>sciolto e mescolato correttamente<\/strong> con il tutto. <br\/><strong>Circa 30 o 35 minuti<\/strong>.<\/p>"
+            "text": "<p>Prepara uno stampo rivestendolo con carta forno e versa l'impasto all'interno e livellalo uniformemente. Informa il tutto a <strong>180°<\/strong> in modalità statica per circa<strong> 25 minuti<\/strong>.<\/p>"
           }
         },
         "1652793135334c8cbb-2": {
@@ -180,10 +180,10 @@
         "1652793135334c8cbb-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1butter_2721542b.webp",
+        "image": "shopify:\/\/shop_images\/4.jpg",
         "height": "small",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "1652793941625591db": {
@@ -277,13 +277,13 @@
         "1661780466b094c1b1-0": {
           "type": "heading",
           "settings": {
-            "heading": "5) Gran finale"
+            "heading": "5) Il Gran Finale"
           }
         },
         "1661780466b094c1b1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Trascorso questo tempo, coliamo il composto con un colino, in un contenitore di vetro e lasciarlo riposare a temperatura ambiente più o meno per un paio d'ore e poi riponete in frigo fino a quando il burro se si sarà solidificato e quando questo avviene, è il momento di eliminare l'acqua in eccesso.<\/p><p>Una volta tolta tutta l’acqua, rimettete pure il contenitore in frigo: avrete pronto il vostro meraviglioso e delizioso <strong>Burro alla Marijuana<\/strong>.<\/p>"
+            "text": "<p>Una volta terminato il tempo di cottura, togliete il composto dal forno e lasciatelo raffreddare completamente. Successivamente, tagliate in quadrati i vostri <strong>Brownies al CBD di Erba Pipa <\/strong>che saranno pronti per essere gustati!<\/p>"
           }
         },
         "1661780466b094c1b1-2": {
@@ -300,7 +300,7 @@
         "1661780466b094c1b1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cannabis_butter.jpg",
+        "image": "shopify:\/\/shop_images\/5.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
