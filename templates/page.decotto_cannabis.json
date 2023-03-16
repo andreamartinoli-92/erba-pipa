@@ -12,7 +12,7 @@
         "165280167131b56a93-0": {
           "type": "heading",
           "settings": {
-            "heading": "DECOTTO ALLA CANNABIS",
+            "heading": "DECOTTO ALLA CBD",
             "heading_size": "h1"
           }
         },
@@ -54,7 +54,7 @@
         "16528016763db89368-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Per realizzare il <strong>Decotto alla Cannabis<\/strong> per prima cosa dovrete riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis <\/strong>e poi <strong>coprire <\/strong>il pentolino con un coperchio.<\/p>"
+            "text": "<p>Per realizzare il <strong>Decotto al CBD<\/strong> per prima cosa dovrete riempite un <strong>pentolino <\/strong>di metallo con dell'<strong>acqua <\/strong>a temperatura ambiente. <strong>Prima di accendere <\/strong>il fornello, <strong>introdurre <\/strong>la dose di <strong>cannabis <\/strong>e poi <strong>coprire <\/strong>il pentolino con un coperchio.<\/p>"
           }
         },
         "16528016763db89368-2": {
@@ -111,7 +111,7 @@
         "image": "shopify:\/\/shop_images\/acqua-che-bolle.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "1652793127ead20904": {
@@ -284,7 +284,7 @@
         "1661780267d0e9a9c7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Si lascia così <strong>raffreddare <\/strong>quanto basta, controllando che non rimangano residui “incollati” alle pareti del pentolino, si dolcifica se necessario e si consuma.<\/p><p><strong>NON è necessario filtrare<\/strong>, anche gli eventuali pezzettini di infiorescenza possono essere ingeriti senza pericolo. Secondo alcuni, potrebbero ancora contenere dei principi attivi che il corpo può assorbire. <\/p><p>Ecco pronto il vosto Decotto alla Cannabis<\/p>"
+            "text": "<p>Si lascia così <strong>raffreddare <\/strong>quanto basta, controllando che non rimangano residui “incollati” alle pareti del pentolino, si dolcifica se necessario e si consuma.<\/p><p><strong>NON è necessario filtrare<\/strong>, anche gli eventuali pezzettini di infiorescenza possono essere ingeriti senza pericolo. Secondo alcuni, potrebbero ancora contenere dei principi attivi che il corpo può assorbire. <\/p><p>Ecco pronto il vosto<strong> Decotto al CBD di Erba Pipa.<\/strong><\/p>"
           }
         },
         "1661780267d0e9a9c7-2": {
@@ -305,7 +305,7 @@
         "image": "shopify:\/\/shop_images\/istock-854211920-1579256676-1440w.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     }
   },
