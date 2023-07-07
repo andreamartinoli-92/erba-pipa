@@ -10,7 +10,7 @@
     "colors_background_1": "#ffffff",
     "colors_background_2": "#32e495",
     "gradient_background_2": "linear-gradient(180deg, rgba(3, 179, 101, 1), rgba(145, 241, 198, 1) 53%, rgba(3, 179, 101, 1) 97%)",
-    "type_header_font": "century_gothic_n7",
+    "type_header_font": "tenor_sans_n4",
     "type_body_font": "varela_round_n4",
     "body_scale": 115,
     "sale_badge_color_scheme": "background-2",
@@ -124,7 +124,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "15119538188275799212": {
+        "type": "shopify:\/\/apps\/fontify-google-custom-fonts\/blocks\/app-embed\/334490e2-2153-4a2e-a452-e90bdeffa3cc",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
